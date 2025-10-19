@@ -1,0 +1,1383 @@
+2025-10-18 17:06:22,243 - INFO - Epoch: 1 - Training Loss: 16.846099
+2025-10-18 17:06:22,420 - INFO - Best Model So Far in Epoch: 1
+2025-10-18 17:06:22,420 - INFO - Epoch: 1 - Validation Loss: 6.293697
+2025-10-18 17:06:24,696 - INFO - Epoch: 2 - Training Loss: 4.266757
+2025-10-18 17:06:24,871 - INFO - Best Model So Far in Epoch: 2
+2025-10-18 17:06:24,871 - INFO - Epoch: 2 - Validation Loss: 3.492287
+2025-10-18 17:06:27,141 - INFO - Epoch: 3 - Training Loss: 3.121714
+2025-10-18 17:06:27,317 - INFO - Best Model So Far in Epoch: 3
+2025-10-18 17:06:27,317 - INFO - Epoch: 3 - Validation Loss: 2.846490
+2025-10-18 17:06:29,594 - INFO - Epoch: 4 - Training Loss: 2.744215
+2025-10-18 17:06:29,768 - INFO - Best Model So Far in Epoch: 4
+2025-10-18 17:06:29,768 - INFO - Epoch: 4 - Validation Loss: 2.697210
+2025-10-18 17:06:32,039 - INFO - Epoch: 5 - Training Loss: 2.577193
+2025-10-18 17:06:32,215 - INFO - Best Model So Far in Epoch: 5
+2025-10-18 17:06:32,215 - INFO - Epoch: 5 - Validation Loss: 2.543437
+2025-10-18 17:06:34,491 - INFO - Epoch: 6 - Training Loss: 2.467900
+2025-10-18 17:06:34,664 - INFO - Epoch: 6 - Validation Loss: 2.560576
+2025-10-18 17:06:36,936 - INFO - Epoch: 7 - Training Loss: 2.379752
+2025-10-18 17:06:37,108 - INFO - Epoch: 7 - Validation Loss: 2.568933
+2025-10-18 17:06:39,381 - INFO - Epoch: 8 - Training Loss: 2.293659
+2025-10-18 17:06:39,557 - INFO - Best Model So Far in Epoch: 8
+2025-10-18 17:06:39,557 - INFO - Epoch: 8 - Validation Loss: 2.458659
+2025-10-18 17:06:41,829 - INFO - Epoch: 9 - Training Loss: 2.140901
+2025-10-18 17:06:42,006 - INFO - Best Model So Far in Epoch: 9
+2025-10-18 17:06:42,006 - INFO - Epoch: 9 - Validation Loss: 2.133937
+2025-10-18 17:06:44,333 - INFO - Epoch: 10 - Training Loss: 1.988102
+2025-10-18 17:06:44,507 - INFO - Best Model So Far in Epoch: 10
+2025-10-18 17:06:44,507 - INFO - Epoch: 10 - Validation Loss: 2.060404
+2025-10-18 17:06:46,784 - INFO - Epoch: 11 - Training Loss: 1.844198
+2025-10-18 17:06:46,959 - INFO - Best Model So Far in Epoch: 11
+2025-10-18 17:06:46,959 - INFO - Epoch: 11 - Validation Loss: 1.952621
+2025-10-18 17:06:49,234 - INFO - Epoch: 12 - Training Loss: 1.706930
+2025-10-18 17:06:49,408 - INFO - Best Model So Far in Epoch: 12
+2025-10-18 17:06:49,408 - INFO - Epoch: 12 - Validation Loss: 1.851588
+2025-10-18 17:06:51,681 - INFO - Epoch: 13 - Training Loss: 1.659991
+2025-10-18 17:06:51,857 - INFO - Epoch: 13 - Validation Loss: 1.853404
+2025-10-18 17:06:54,137 - INFO - Epoch: 14 - Training Loss: 1.575674
+2025-10-18 17:06:54,310 - INFO - Best Model So Far in Epoch: 14
+2025-10-18 17:06:54,310 - INFO - Epoch: 14 - Validation Loss: 1.790625
+2025-10-18 17:06:56,588 - INFO - Epoch: 15 - Training Loss: 1.546788
+2025-10-18 17:06:56,763 - INFO - Epoch: 15 - Validation Loss: 2.419829
+2025-10-18 17:06:59,034 - INFO - Epoch: 16 - Training Loss: 1.689480
+2025-10-18 17:06:59,207 - INFO - Best Model So Far in Epoch: 16
+2025-10-18 17:06:59,207 - INFO - Epoch: 16 - Validation Loss: 1.746028
+2025-10-18 17:07:01,479 - INFO - Epoch: 17 - Training Loss: 1.348205
+2025-10-18 17:07:01,653 - INFO - Best Model So Far in Epoch: 17
+2025-10-18 17:07:01,654 - INFO - Epoch: 17 - Validation Loss: 1.621179
+2025-10-18 17:07:03,938 - INFO - Epoch: 18 - Training Loss: 1.168246
+2025-10-18 17:07:04,114 - INFO - Best Model So Far in Epoch: 18
+2025-10-18 17:07:04,114 - INFO - Epoch: 18 - Validation Loss: 1.551513
+2025-10-18 17:07:06,387 - INFO - Epoch: 19 - Training Loss: 1.062699
+2025-10-18 17:07:06,560 - INFO - Epoch: 19 - Validation Loss: 1.777999
+2025-10-18 17:07:08,837 - INFO - Epoch: 20 - Training Loss: 1.151416
+2025-10-18 17:07:09,010 - INFO - Epoch: 20 - Validation Loss: 1.859461
+2025-10-18 17:07:11,282 - INFO - Epoch: 21 - Training Loss: 1.069722
+2025-10-18 17:07:11,455 - INFO - Epoch: 21 - Validation Loss: 1.630020
+2025-10-18 17:07:13,732 - INFO - Epoch: 22 - Training Loss: 0.969351
+2025-10-18 17:07:13,905 - INFO - Epoch: 22 - Validation Loss: 2.056803
+2025-10-18 17:07:16,173 - INFO - Epoch: 23 - Training Loss: 1.259229
+2025-10-18 17:07:16,348 - INFO - Best Model So Far in Epoch: 23
+2025-10-18 17:07:16,348 - INFO - Epoch: 23 - Validation Loss: 1.507608
+2025-10-18 17:07:18,621 - INFO - Epoch: 24 - Training Loss: 1.186044
+2025-10-18 17:07:18,793 - INFO - Best Model So Far in Epoch: 24
+2025-10-18 17:07:18,793 - INFO - Epoch: 24 - Validation Loss: 1.466933
+2025-10-18 17:07:21,070 - INFO - Epoch: 25 - Training Loss: 0.898357
+2025-10-18 17:07:21,244 - INFO - Epoch: 25 - Validation Loss: 1.499755
+2025-10-18 17:07:23,518 - INFO - Epoch: 26 - Training Loss: 0.755636
+2025-10-18 17:07:23,692 - INFO - Best Model So Far in Epoch: 26
+2025-10-18 17:07:23,692 - INFO - Epoch: 26 - Validation Loss: 1.445444
+2025-10-18 17:07:25,964 - INFO - Epoch: 27 - Training Loss: 0.755630
+2025-10-18 17:07:26,138 - INFO - Epoch: 27 - Validation Loss: 1.457264
+2025-10-18 17:07:28,415 - INFO - Epoch: 28 - Training Loss: 0.858587
+2025-10-18 17:07:28,590 - INFO - Epoch: 28 - Validation Loss: 1.851957
+2025-10-18 17:07:30,861 - INFO - Epoch: 29 - Training Loss: 0.946596
+2025-10-18 17:07:31,035 - INFO - Epoch: 29 - Validation Loss: 1.500949
+2025-10-18 17:07:33,311 - INFO - Epoch: 30 - Training Loss: 0.890975
+2025-10-18 17:07:33,484 - INFO - Epoch: 30 - Validation Loss: 1.451939
+2025-10-18 17:07:33,488 - INFO - Best Model Loaded from Epoch: 26
+2025-10-18 17:19:15,517 - INFO - Epoch: 1 - Training Loss: 78.588564
+2025-10-18 17:19:15,733 - INFO - Best Model So Far in Epoch: 1
+2025-10-18 17:19:15,733 - INFO - Epoch: 1 - Validation Loss: 7.562723
+2025-10-18 17:19:19,138 - INFO - Epoch: 2 - Training Loss: 5.605632
+2025-10-18 17:19:19,354 - INFO - Best Model So Far in Epoch: 2
+2025-10-18 17:19:19,354 - INFO - Epoch: 2 - Validation Loss: 3.519254
+2025-10-18 17:19:22,688 - INFO - Epoch: 3 - Training Loss: 3.977626
+2025-10-18 17:19:22,902 - INFO - Epoch: 3 - Validation Loss: 3.598257
+2025-10-18 17:19:26,249 - INFO - Epoch: 4 - Training Loss: 3.771423
+2025-10-18 17:19:26,463 - INFO - Best Model So Far in Epoch: 4
+2025-10-18 17:19:26,463 - INFO - Epoch: 4 - Validation Loss: 3.163805
+2025-10-18 17:19:29,916 - INFO - Epoch: 5 - Training Loss: 3.620256
+2025-10-18 17:19:30,132 - INFO - Epoch: 5 - Validation Loss: 3.317646
+2025-10-18 17:19:33,465 - INFO - Epoch: 6 - Training Loss: 3.514318
+2025-10-18 17:19:33,681 - INFO - Best Model So Far in Epoch: 6
+2025-10-18 17:19:33,681 - INFO - Epoch: 6 - Validation Loss: 3.039536
+2025-10-18 17:19:37,100 - INFO - Epoch: 7 - Training Loss: 3.383839
+2025-10-18 17:19:37,315 - INFO - Best Model So Far in Epoch: 7
+2025-10-18 17:19:37,315 - INFO - Epoch: 7 - Validation Loss: 2.935377
+2025-10-18 17:19:40,680 - INFO - Epoch: 8 - Training Loss: 3.265743
+2025-10-18 17:19:40,887 - INFO - Best Model So Far in Epoch: 8
+2025-10-18 17:19:40,887 - INFO - Epoch: 8 - Validation Loss: 2.891750
+2025-10-18 17:19:53,811 - INFO - Epoch: 1 - Training Loss: 171.990727
+2025-10-18 17:19:54,020 - INFO - Best Model So Far in Epoch: 1
+2025-10-18 17:19:54,020 - INFO - Epoch: 1 - Validation Loss: 3.785271
+2025-10-18 17:19:57,384 - INFO - Epoch: 2 - Training Loss: 9.560418
+2025-10-18 17:19:57,598 - INFO - Best Model So Far in Epoch: 2
+2025-10-18 17:19:57,598 - INFO - Epoch: 2 - Validation Loss: 3.697537
+2025-10-18 17:20:01,017 - INFO - Epoch: 3 - Training Loss: 4.911844
+2025-10-18 17:20:01,282 - INFO - Epoch: 3 - Validation Loss: 4.490782
+2025-10-18 17:20:04,693 - INFO - Epoch: 4 - Training Loss: 4.127402
+2025-10-18 17:20:04,906 - INFO - Best Model So Far in Epoch: 4
+2025-10-18 17:20:04,906 - INFO - Epoch: 4 - Validation Loss: 3.160366
+2025-10-18 17:20:08,319 - INFO - Epoch: 5 - Training Loss: 3.600812
+2025-10-18 17:20:08,534 - INFO - Best Model So Far in Epoch: 5
+2025-10-18 17:20:08,535 - INFO - Epoch: 5 - Validation Loss: 2.995629
+2025-10-18 17:20:11,955 - INFO - Epoch: 6 - Training Loss: 3.472359
+2025-10-18 17:20:12,170 - INFO - Best Model So Far in Epoch: 6
+2025-10-18 17:20:12,170 - INFO - Epoch: 6 - Validation Loss: 2.925785
+2025-10-18 17:20:15,586 - INFO - Epoch: 7 - Training Loss: 3.327569
+2025-10-18 17:20:15,800 - INFO - Best Model So Far in Epoch: 7
+2025-10-18 17:20:15,800 - INFO - Epoch: 7 - Validation Loss: 2.900439
+2025-10-18 17:20:19,216 - INFO - Epoch: 8 - Training Loss: 3.277183
+2025-10-18 17:20:19,430 - INFO - Best Model So Far in Epoch: 8
+2025-10-18 17:20:19,430 - INFO - Epoch: 8 - Validation Loss: 2.877663
+2025-10-18 17:20:22,848 - INFO - Epoch: 9 - Training Loss: 3.141463
+2025-10-18 17:20:23,067 - INFO - Best Model So Far in Epoch: 9
+2025-10-18 17:20:23,067 - INFO - Epoch: 9 - Validation Loss: 2.755501
+2025-10-18 17:20:26,484 - INFO - Epoch: 10 - Training Loss: 3.158082
+2025-10-18 17:20:26,698 - INFO - Best Model So Far in Epoch: 10
+2025-10-18 17:20:26,698 - INFO - Epoch: 10 - Validation Loss: 2.693570
+2025-10-18 17:20:30,117 - INFO - Epoch: 11 - Training Loss: 3.016785
+2025-10-18 17:20:30,332 - INFO - Epoch: 11 - Validation Loss: 2.710699
+2025-10-18 17:20:33,757 - INFO - Epoch: 12 - Training Loss: 2.998541
+2025-10-18 17:20:33,973 - INFO - Epoch: 12 - Validation Loss: 2.786371
+2025-10-18 17:20:37,395 - INFO - Epoch: 13 - Training Loss: 2.935922
+2025-10-18 17:20:37,610 - INFO - Best Model So Far in Epoch: 13
+2025-10-18 17:20:37,610 - INFO - Epoch: 13 - Validation Loss: 2.594536
+2025-10-18 17:20:41,035 - INFO - Epoch: 14 - Training Loss: 2.889853
+2025-10-18 17:20:41,250 - INFO - Epoch: 14 - Validation Loss: 2.625459
+2025-10-18 17:20:44,669 - INFO - Epoch: 15 - Training Loss: 2.860393
+2025-10-18 17:20:44,883 - INFO - Epoch: 15 - Validation Loss: 2.654988
+2025-10-18 17:20:48,305 - INFO - Epoch: 16 - Training Loss: 2.910314
+2025-10-18 17:20:48,517 - INFO - Epoch: 16 - Validation Loss: 3.094464
+2025-10-18 17:20:51,938 - INFO - Epoch: 17 - Training Loss: 3.036665
+2025-10-18 17:20:52,151 - INFO - Epoch: 17 - Validation Loss: 2.615834
+2025-10-18 17:20:55,568 - INFO - Epoch: 18 - Training Loss: 2.845057
+2025-10-18 17:20:55,782 - INFO - Epoch: 18 - Validation Loss: 2.693530
+2025-10-18 17:20:59,203 - INFO - Epoch: 19 - Training Loss: 2.882002
+2025-10-18 17:20:59,419 - INFO - Best Model So Far in Epoch: 19
+2025-10-18 17:20:59,419 - INFO - Epoch: 19 - Validation Loss: 2.508576
+2025-10-18 17:21:02,839 - INFO - Epoch: 20 - Training Loss: 2.832275
+2025-10-18 17:21:03,054 - INFO - Epoch: 20 - Validation Loss: 2.563358
+2025-10-18 17:21:06,470 - INFO - Epoch: 21 - Training Loss: 2.926845
+2025-10-18 17:21:06,688 - INFO - Epoch: 21 - Validation Loss: 2.530024
+2025-10-18 17:21:10,105 - INFO - Epoch: 22 - Training Loss: 2.913873
+2025-10-18 17:21:10,318 - INFO - Epoch: 22 - Validation Loss: 2.538677
+2025-10-18 17:21:13,736 - INFO - Epoch: 23 - Training Loss: 2.769757
+2025-10-18 17:21:13,949 - INFO - Best Model So Far in Epoch: 23
+2025-10-18 17:21:13,950 - INFO - Epoch: 23 - Validation Loss: 2.491556
+2025-10-18 17:21:17,369 - INFO - Epoch: 24 - Training Loss: 2.743754
+2025-10-18 17:21:17,580 - INFO - Epoch: 24 - Validation Loss: 2.503227
+2025-10-18 17:21:20,997 - INFO - Epoch: 25 - Training Loss: 2.735154
+2025-10-18 17:21:21,212 - INFO - Best Model So Far in Epoch: 25
+2025-10-18 17:21:21,212 - INFO - Epoch: 25 - Validation Loss: 2.483606
+2025-10-18 17:21:24,629 - INFO - Epoch: 26 - Training Loss: 2.697100
+2025-10-18 17:21:24,843 - INFO - Best Model So Far in Epoch: 26
+2025-10-18 17:21:24,843 - INFO - Epoch: 26 - Validation Loss: 2.480233
+2025-10-18 17:21:28,263 - INFO - Epoch: 27 - Training Loss: 2.636986
+2025-10-18 17:21:28,476 - INFO - Best Model So Far in Epoch: 27
+2025-10-18 17:21:28,476 - INFO - Epoch: 27 - Validation Loss: 2.468174
+2025-10-18 17:21:31,940 - INFO - Epoch: 28 - Training Loss: 2.711274
+2025-10-18 17:21:32,155 - INFO - Epoch: 28 - Validation Loss: 2.819480
+2025-10-18 17:21:35,574 - INFO - Epoch: 29 - Training Loss: 2.812206
+2025-10-18 17:21:35,788 - INFO - Epoch: 29 - Validation Loss: 2.576739
+2025-10-18 17:21:39,208 - INFO - Epoch: 30 - Training Loss: 2.741878
+2025-10-18 17:21:39,423 - INFO - Best Model So Far in Epoch: 30
+2025-10-18 17:21:39,423 - INFO - Epoch: 30 - Validation Loss: 2.463808
+2025-10-18 17:21:39,437 - INFO - Best Model Loaded from Epoch: 30
+2025-10-18 17:30:05,509 - INFO - Epoch: 1 - Training Loss: 72.024597
+2025-10-18 17:30:05,728 - INFO - Best Model So Far in Epoch: 1
+2025-10-18 17:30:05,728 - INFO - Epoch: 1 - Validation Loss: 5.945626
+2025-10-18 17:30:09,194 - INFO - Epoch: 2 - Training Loss: 7.496292
+2025-10-18 17:30:09,410 - INFO - Epoch: 2 - Validation Loss: 7.138648
+2025-10-18 17:30:13,021 - INFO - Epoch: 3 - Training Loss: 4.905957
+2025-10-18 17:30:13,290 - INFO - Best Model So Far in Epoch: 3
+2025-10-18 17:30:13,290 - INFO - Epoch: 3 - Validation Loss: 3.495667
+2025-10-18 17:30:16,852 - INFO - Epoch: 4 - Training Loss: 3.895647
+2025-10-18 17:30:17,066 - INFO - Best Model So Far in Epoch: 4
+2025-10-18 17:30:17,066 - INFO - Epoch: 4 - Validation Loss: 3.125164
+2025-10-18 17:30:20,777 - INFO - Epoch: 5 - Training Loss: 3.546347
+2025-10-18 17:30:20,987 - INFO - Epoch: 5 - Validation Loss: 3.242052
+2025-10-18 17:30:24,390 - INFO - Epoch: 6 - Training Loss: 3.656065
+2025-10-18 17:30:24,614 - INFO - Epoch: 6 - Validation Loss: 3.126910
+2025-10-18 17:30:28,125 - INFO - Epoch: 7 - Training Loss: 3.531647
+2025-10-18 17:30:28,348 - INFO - Best Model So Far in Epoch: 7
+2025-10-18 17:30:28,348 - INFO - Epoch: 7 - Validation Loss: 3.077888
+2025-10-18 17:30:32,077 - INFO - Epoch: 8 - Training Loss: 3.456596
+2025-10-18 17:30:32,320 - INFO - Best Model So Far in Epoch: 8
+2025-10-18 17:30:32,320 - INFO - Epoch: 8 - Validation Loss: 3.020508
+2025-10-18 17:30:35,639 - INFO - Epoch: 9 - Training Loss: 3.240270
+2025-10-18 17:30:35,841 - INFO - Best Model So Far in Epoch: 9
+2025-10-18 17:30:35,842 - INFO - Epoch: 9 - Validation Loss: 2.894295
+2025-10-18 17:30:39,137 - INFO - Epoch: 10 - Training Loss: 3.275053
+2025-10-18 17:30:39,340 - INFO - Best Model So Far in Epoch: 10
+2025-10-18 17:30:39,340 - INFO - Epoch: 10 - Validation Loss: 2.824246
+2025-10-18 17:30:42,630 - INFO - Epoch: 11 - Training Loss: 3.259285
+2025-10-18 17:30:42,833 - INFO - Best Model So Far in Epoch: 11
+2025-10-18 17:30:42,833 - INFO - Epoch: 11 - Validation Loss: 2.752660
+2025-10-18 17:30:46,120 - INFO - Epoch: 12 - Training Loss: 3.277891
+2025-10-18 17:30:46,323 - INFO - Best Model So Far in Epoch: 12
+2025-10-18 17:30:46,323 - INFO - Epoch: 12 - Validation Loss: 2.710324
+2025-10-18 17:30:49,617 - INFO - Epoch: 13 - Training Loss: 3.231678
+2025-10-18 17:30:49,819 - INFO - Epoch: 13 - Validation Loss: 2.979336
+2025-10-18 17:30:53,108 - INFO - Epoch: 14 - Training Loss: 3.273643
+2025-10-18 17:30:53,313 - INFO - Epoch: 14 - Validation Loss: 2.810191
+2025-10-18 17:30:56,607 - INFO - Epoch: 15 - Training Loss: 3.110675
+2025-10-18 17:30:56,809 - INFO - Epoch: 15 - Validation Loss: 2.953968
+2025-10-18 17:31:00,103 - INFO - Epoch: 16 - Training Loss: 3.082444
+2025-10-18 17:31:00,306 - INFO - Best Model So Far in Epoch: 16
+2025-10-18 17:31:00,306 - INFO - Epoch: 16 - Validation Loss: 2.700267
+2025-10-18 17:31:03,591 - INFO - Epoch: 17 - Training Loss: 3.003625
+2025-10-18 17:31:03,791 - INFO - Epoch: 17 - Validation Loss: 2.815261
+2025-10-18 17:31:07,230 - INFO - Epoch: 18 - Training Loss: 3.025158
+2025-10-18 17:31:07,447 - INFO - Epoch: 18 - Validation Loss: 2.720611
+2025-10-18 17:31:10,999 - INFO - Epoch: 19 - Training Loss: 3.009142
+2025-10-18 17:31:11,260 - INFO - Best Model So Far in Epoch: 19
+2025-10-18 17:31:11,261 - INFO - Epoch: 19 - Validation Loss: 2.628209
+2025-10-18 17:31:14,813 - INFO - Epoch: 20 - Training Loss: 2.948874
+2025-10-18 17:31:15,036 - INFO - Epoch: 20 - Validation Loss: 2.631789
+2025-10-18 17:31:18,788 - INFO - Epoch: 21 - Training Loss: 2.938268
+2025-10-18 17:31:18,991 - INFO - Epoch: 21 - Validation Loss: 2.637641
+2025-10-18 17:31:22,630 - INFO - Epoch: 22 - Training Loss: 2.934817
+2025-10-18 17:31:22,846 - INFO - Best Model So Far in Epoch: 22
+2025-10-18 17:31:22,846 - INFO - Epoch: 22 - Validation Loss: 2.609651
+2025-10-18 17:31:26,243 - INFO - Epoch: 23 - Training Loss: 2.866759
+2025-10-18 17:31:26,445 - INFO - Epoch: 23 - Validation Loss: 2.704421
+2025-10-18 17:31:29,905 - INFO - Epoch: 24 - Training Loss: 2.862636
+2025-10-18 17:31:30,108 - INFO - Epoch: 24 - Validation Loss: 2.706628
+2025-10-18 17:31:33,419 - INFO - Epoch: 25 - Training Loss: 2.887149
+2025-10-18 17:31:33,622 - INFO - Best Model So Far in Epoch: 25
+2025-10-18 17:31:33,622 - INFO - Epoch: 25 - Validation Loss: 2.597584
+2025-10-18 17:31:36,922 - INFO - Epoch: 26 - Training Loss: 2.852890
+2025-10-18 17:31:37,124 - INFO - Epoch: 26 - Validation Loss: 2.611287
+2025-10-18 17:31:40,515 - INFO - Epoch: 27 - Training Loss: 2.997555
+2025-10-18 17:31:40,717 - INFO - Epoch: 27 - Validation Loss: 2.722277
+2025-10-18 17:31:44,244 - INFO - Epoch: 28 - Training Loss: 2.808734
+2025-10-18 17:31:44,463 - INFO - Epoch: 28 - Validation Loss: 2.685642
+2025-10-18 17:31:47,978 - INFO - Epoch: 29 - Training Loss: 2.878260
+2025-10-18 17:31:48,336 - INFO - Epoch: 29 - Validation Loss: 2.610540
+2025-10-18 17:31:52,018 - INFO - Epoch: 30 - Training Loss: 2.815908
+2025-10-18 17:31:52,229 - INFO - Epoch: 30 - Validation Loss: 2.651832
+2025-10-18 17:31:55,648 - INFO - Epoch: 31 - Training Loss: 2.738593
+2025-10-18 17:31:55,852 - INFO - Best Model So Far in Epoch: 31
+2025-10-18 17:31:55,852 - INFO - Epoch: 31 - Validation Loss: 2.516434
+2025-10-18 17:31:59,244 - INFO - Epoch: 32 - Training Loss: 2.673705
+2025-10-18 17:31:59,454 - INFO - Epoch: 32 - Validation Loss: 2.690569
+2025-10-18 17:32:02,797 - INFO - Epoch: 33 - Training Loss: 2.809507
+2025-10-18 17:32:03,000 - INFO - Best Model So Far in Epoch: 33
+2025-10-18 17:32:03,000 - INFO - Epoch: 33 - Validation Loss: 2.480688
+2025-10-18 17:32:06,474 - INFO - Epoch: 34 - Training Loss: 2.776181
+2025-10-18 17:32:06,685 - INFO - Epoch: 34 - Validation Loss: 2.498399
+2025-10-18 17:32:10,141 - INFO - Epoch: 35 - Training Loss: 2.599141
+2025-10-18 17:32:10,353 - INFO - Epoch: 35 - Validation Loss: 2.509690
+2025-10-18 17:32:13,883 - INFO - Epoch: 36 - Training Loss: 2.607000
+2025-10-18 17:32:14,087 - INFO - Best Model So Far in Epoch: 36
+2025-10-18 17:32:14,087 - INFO - Epoch: 36 - Validation Loss: 2.432975
+2025-10-18 17:32:17,486 - INFO - Epoch: 37 - Training Loss: 2.524002
+2025-10-18 17:32:17,707 - INFO - Best Model So Far in Epoch: 37
+2025-10-18 17:32:17,707 - INFO - Epoch: 37 - Validation Loss: 2.426692
+2025-10-18 17:32:21,284 - INFO - Epoch: 38 - Training Loss: 2.534038
+2025-10-18 17:32:21,508 - INFO - Best Model So Far in Epoch: 38
+2025-10-18 17:32:21,509 - INFO - Epoch: 38 - Validation Loss: 2.396307
+2025-10-18 17:32:25,042 - INFO - Epoch: 39 - Training Loss: 2.530916
+2025-10-18 17:32:25,273 - INFO - Best Model So Far in Epoch: 39
+2025-10-18 17:32:25,273 - INFO - Epoch: 39 - Validation Loss: 2.387439
+2025-10-18 17:32:28,834 - INFO - Epoch: 40 - Training Loss: 2.535008
+2025-10-18 17:32:29,038 - INFO - Best Model So Far in Epoch: 40
+2025-10-18 17:32:29,038 - INFO - Epoch: 40 - Validation Loss: 2.376619
+2025-10-18 17:32:32,571 - INFO - Epoch: 41 - Training Loss: 2.463253
+2025-10-18 17:32:32,775 - INFO - Best Model So Far in Epoch: 41
+2025-10-18 17:32:32,775 - INFO - Epoch: 41 - Validation Loss: 2.315322
+2025-10-18 17:32:36,190 - INFO - Epoch: 42 - Training Loss: 2.381257
+2025-10-18 17:32:36,394 - INFO - Epoch: 42 - Validation Loss: 2.379301
+2025-10-18 17:32:39,760 - INFO - Epoch: 43 - Training Loss: 2.337853
+2025-10-18 17:32:39,981 - INFO - Best Model So Far in Epoch: 43
+2025-10-18 17:32:39,981 - INFO - Epoch: 43 - Validation Loss: 2.220576
+2025-10-18 17:32:43,379 - INFO - Epoch: 44 - Training Loss: 2.278938
+2025-10-18 17:32:43,592 - INFO - Best Model So Far in Epoch: 44
+2025-10-18 17:32:43,592 - INFO - Epoch: 44 - Validation Loss: 2.192728
+2025-10-18 17:32:47,007 - INFO - Epoch: 45 - Training Loss: 2.260286
+2025-10-18 17:32:47,214 - INFO - Best Model So Far in Epoch: 45
+2025-10-18 17:32:47,214 - INFO - Epoch: 45 - Validation Loss: 2.169905
+2025-10-18 17:32:50,794 - INFO - Epoch: 46 - Training Loss: 2.143296
+2025-10-18 17:32:51,009 - INFO - Best Model So Far in Epoch: 46
+2025-10-18 17:32:51,009 - INFO - Epoch: 46 - Validation Loss: 2.148986
+2025-10-18 17:32:54,310 - INFO - Epoch: 47 - Training Loss: 2.086317
+2025-10-18 17:32:54,514 - INFO - Epoch: 47 - Validation Loss: 2.172307
+2025-10-18 17:32:57,827 - INFO - Epoch: 48 - Training Loss: 2.113758
+2025-10-18 17:32:58,031 - INFO - Best Model So Far in Epoch: 48
+2025-10-18 17:32:58,031 - INFO - Epoch: 48 - Validation Loss: 2.116711
+2025-10-18 17:33:01,541 - INFO - Epoch: 49 - Training Loss: 2.085638
+2025-10-18 17:33:01,755 - INFO - Best Model So Far in Epoch: 49
+2025-10-18 17:33:01,755 - INFO - Epoch: 49 - Validation Loss: 2.098493
+2025-10-18 17:33:05,439 - INFO - Epoch: 50 - Training Loss: 2.005643
+2025-10-18 17:33:05,642 - INFO - Epoch: 50 - Validation Loss: 2.099784
+2025-10-18 17:33:05,657 - INFO - Best Model Loaded from Epoch: 49
+2025-10-18 17:49:18,058 - INFO - Epoch: 1 - Training Loss: 3.128229
+2025-10-18 17:49:31,180 - INFO - Best Model So Far in Epoch: 1
+2025-10-18 17:49:31,180 - INFO - Epoch: 1 - Validation Loss: 0.489338
+2025-10-18 17:50:39,737 - INFO - Epoch: 2 - Training Loss: 0.683130
+2025-10-18 17:50:52,847 - INFO - Epoch: 2 - Validation Loss: 0.705350
+2025-10-18 17:52:02,062 - INFO - Epoch: 3 - Training Loss: 0.648022
+2025-10-18 17:52:15,786 - INFO - Epoch: 3 - Validation Loss: 0.757959
+2025-10-18 17:53:26,817 - INFO - Epoch: 4 - Training Loss: 0.675628
+2025-10-18 17:53:40,022 - INFO - Best Model So Far in Epoch: 4
+2025-10-18 17:53:40,022 - INFO - Epoch: 4 - Validation Loss: 0.427843
+2025-10-18 17:54:48,987 - INFO - Epoch: 5 - Training Loss: 0.758683
+2025-10-18 18:02:28,521 - INFO - Epoch: 1 - Training Loss: 3.284004
+2025-10-18 18:02:45,167 - INFO - Best Model So Far in Epoch: 1
+2025-10-18 18:02:45,167 - INFO - Epoch: 1 - Validation Loss: 0.521416
+2025-10-18 18:03:21,389 - INFO - Epoch: 2 - Training Loss: 0.716130
+2025-10-18 18:03:25,477 - INFO - Epoch: 2 - Validation Loss: 0.582398
+2025-10-18 18:04:02,072 - INFO - Epoch: 3 - Training Loss: 0.655692
+2025-10-18 18:04:06,218 - INFO - Best Model So Far in Epoch: 3
+2025-10-18 18:04:06,218 - INFO - Epoch: 3 - Validation Loss: 0.460167
+2025-10-18 18:04:42,399 - INFO - Epoch: 4 - Training Loss: 0.632805
+2025-10-18 18:04:46,667 - INFO - Epoch: 4 - Validation Loss: 0.580203
+2025-10-18 18:05:22,838 - INFO - Epoch: 5 - Training Loss: 0.668641
+2025-10-18 18:05:27,085 - INFO - Best Model So Far in Epoch: 5
+2025-10-18 18:05:27,085 - INFO - Epoch: 5 - Validation Loss: 0.415810
+2025-10-18 18:06:03,763 - INFO - Epoch: 6 - Training Loss: 0.655388
+2025-10-18 18:06:07,994 - INFO - Epoch: 6 - Validation Loss: 0.589566
+2025-10-18 18:06:46,220 - INFO - Epoch: 7 - Training Loss: 1.043421
+2025-10-18 18:06:50,838 - INFO - Epoch: 7 - Validation Loss: 0.678259
+2025-10-18 18:07:29,638 - INFO - Epoch: 8 - Training Loss: 0.565968
+2025-10-18 18:07:33,994 - INFO - Best Model So Far in Epoch: 8
+2025-10-18 18:07:33,994 - INFO - Epoch: 8 - Validation Loss: 0.414758
+2025-10-18 18:08:11,166 - INFO - Epoch: 9 - Training Loss: 0.545676
+2025-10-18 18:08:15,633 - INFO - Epoch: 9 - Validation Loss: 0.447715
+2025-10-18 18:10:30,043 - INFO - Epoch: 1 - Training Loss: 3.551927
+2025-10-18 18:10:59,814 - INFO - Best Model So Far in Epoch: 1
+2025-10-18 18:10:59,814 - INFO - Epoch: 1 - Validation Loss: 0.504291
+2025-10-18 18:11:36,387 - INFO - Epoch: 2 - Training Loss: 0.687846
+2025-10-18 18:11:40,674 - INFO - Best Model So Far in Epoch: 2
+2025-10-18 18:11:40,674 - INFO - Epoch: 2 - Validation Loss: 0.470150
+2025-10-18 18:12:22,183 - INFO - Epoch: 3 - Training Loss: 0.627844
+2025-10-18 18:12:27,676 - INFO - Best Model So Far in Epoch: 3
+2025-10-18 18:12:27,676 - INFO - Epoch: 3 - Validation Loss: 0.439691
+2025-10-18 18:13:13,651 - INFO - Epoch: 4 - Training Loss: 0.672205
+2025-10-18 18:13:19,057 - INFO - Best Model So Far in Epoch: 4
+2025-10-18 18:13:19,057 - INFO - Epoch: 4 - Validation Loss: 0.438874
+2025-10-18 18:14:06,098 - INFO - Epoch: 5 - Training Loss: 0.665405
+2025-10-18 18:14:11,539 - INFO - Epoch: 5 - Validation Loss: 0.475212
+2025-10-18 18:16:08,561 - INFO - Epoch: 1 - Training Loss: 3.047948
+2025-10-18 18:16:37,477 - INFO - Best Model So Far in Epoch: 1
+2025-10-18 18:16:37,478 - INFO - Epoch: 1 - Validation Loss: 0.667713
+2025-10-18 18:17:15,388 - INFO - Epoch: 2 - Training Loss: 0.701581
+2025-10-18 18:17:20,019 - INFO - Best Model So Far in Epoch: 2
+2025-10-18 18:17:20,019 - INFO - Epoch: 2 - Validation Loss: 0.455082
+2025-10-18 18:17:57,435 - INFO - Epoch: 3 - Training Loss: 0.680587
+2025-10-18 18:18:01,965 - INFO - Epoch: 3 - Validation Loss: 0.702251
+2025-10-18 18:18:39,317 - INFO - Epoch: 4 - Training Loss: 0.650777
+2025-10-18 18:18:43,818 - INFO - Epoch: 4 - Validation Loss: 0.586080
+2025-10-18 18:19:21,020 - INFO - Epoch: 5 - Training Loss: 1.003137
+2025-10-18 18:19:25,561 - INFO - Best Model So Far in Epoch: 5
+2025-10-18 18:19:25,562 - INFO - Epoch: 5 - Validation Loss: 0.426603
+2025-10-18 18:20:02,885 - INFO - Epoch: 6 - Training Loss: 0.592643
+2025-10-18 18:20:07,403 - INFO - Best Model So Far in Epoch: 6
+2025-10-18 18:20:07,403 - INFO - Epoch: 6 - Validation Loss: 0.414834
+2025-10-18 18:20:44,727 - INFO - Epoch: 7 - Training Loss: 0.598828
+2025-10-18 18:20:49,247 - INFO - Epoch: 7 - Validation Loss: 0.466413
+2025-10-18 18:21:27,133 - INFO - Epoch: 8 - Training Loss: 0.644017
+2025-10-18 18:21:31,641 - INFO - Best Model So Far in Epoch: 8
+2025-10-18 18:21:31,641 - INFO - Epoch: 8 - Validation Loss: 0.414154
+2025-10-18 18:22:08,989 - INFO - Epoch: 9 - Training Loss: 0.667884
+2025-10-18 18:22:13,522 - INFO - Epoch: 9 - Validation Loss: 0.414409
+2025-10-18 18:22:50,828 - INFO - Epoch: 10 - Training Loss: 0.604897
+2025-10-18 18:22:55,350 - INFO - Best Model So Far in Epoch: 10
+2025-10-18 18:22:55,350 - INFO - Epoch: 10 - Validation Loss: 0.391042
+2025-10-18 18:23:32,630 - INFO - Epoch: 11 - Training Loss: 0.742902
+2025-10-18 18:23:37,126 - INFO - Epoch: 11 - Validation Loss: 0.392688
+2025-10-18 18:24:15,299 - INFO - Epoch: 12 - Training Loss: 0.567922
+2025-10-18 18:24:20,010 - INFO - Best Model So Far in Epoch: 12
+2025-10-18 18:24:20,010 - INFO - Epoch: 12 - Validation Loss: 0.364324
+2025-10-18 18:24:58,942 - INFO - Epoch: 13 - Training Loss: 0.546790
+2025-10-18 18:25:03,592 - INFO - Epoch: 13 - Validation Loss: 0.639471
+2025-10-18 18:25:42,302 - INFO - Epoch: 14 - Training Loss: 0.521387
+2025-10-18 18:25:47,002 - INFO - Best Model So Far in Epoch: 14
+2025-10-18 18:25:47,002 - INFO - Epoch: 14 - Validation Loss: 0.345287
+2025-10-18 18:26:25,741 - INFO - Epoch: 15 - Training Loss: 0.602498
+2025-10-18 18:26:30,400 - INFO - Epoch: 15 - Validation Loss: 0.655557
+2025-10-18 18:27:09,114 - INFO - Epoch: 16 - Training Loss: 0.586385
+2025-10-18 18:27:13,841 - INFO - Epoch: 16 - Validation Loss: 0.402309
+2025-10-18 18:27:52,602 - INFO - Epoch: 17 - Training Loss: 0.607443
+2025-10-18 18:27:57,275 - INFO - Epoch: 17 - Validation Loss: 0.408164
+2025-10-18 18:28:35,923 - INFO - Epoch: 18 - Training Loss: 0.524646
+2025-10-18 18:28:40,620 - INFO - Epoch: 18 - Validation Loss: 0.467118
+2025-10-18 18:29:19,256 - INFO - Epoch: 19 - Training Loss: 0.495724
+2025-10-18 18:29:23,967 - INFO - Epoch: 19 - Validation Loss: 0.458055
+2025-10-18 18:30:02,673 - INFO - Epoch: 20 - Training Loss: 0.511413
+2025-10-18 18:30:07,325 - INFO - Best Model So Far in Epoch: 20
+2025-10-18 18:30:07,325 - INFO - Epoch: 20 - Validation Loss: 0.338066
+2025-10-18 18:30:46,002 - INFO - Epoch: 21 - Training Loss: 0.628882
+2025-10-18 18:30:50,683 - INFO - Best Model So Far in Epoch: 21
+2025-10-18 18:30:50,683 - INFO - Epoch: 21 - Validation Loss: 0.326834
+2025-10-18 18:31:29,319 - INFO - Epoch: 22 - Training Loss: 0.459708
+2025-10-18 18:31:34,025 - INFO - Best Model So Far in Epoch: 22
+2025-10-18 18:31:34,025 - INFO - Epoch: 22 - Validation Loss: 0.316737
+2025-10-18 18:32:12,668 - INFO - Epoch: 23 - Training Loss: 0.505290
+2025-10-18 18:32:17,343 - INFO - Epoch: 23 - Validation Loss: 0.319256
+2025-10-18 18:32:56,085 - INFO - Epoch: 24 - Training Loss: 0.572353
+2025-10-18 18:33:00,807 - INFO - Epoch: 24 - Validation Loss: 0.326904
+2025-10-18 18:33:39,536 - INFO - Epoch: 25 - Training Loss: 0.486494
+2025-10-18 18:33:44,229 - INFO - Epoch: 25 - Validation Loss: 0.370889
+2025-10-18 18:34:22,950 - INFO - Epoch: 26 - Training Loss: 0.476133
+2025-10-18 18:34:27,625 - INFO - Epoch: 26 - Validation Loss: 0.427380
+2025-10-18 18:35:06,330 - INFO - Epoch: 27 - Training Loss: 0.495528
+2025-10-18 18:35:11,034 - INFO - Best Model So Far in Epoch: 27
+2025-10-18 18:35:11,034 - INFO - Epoch: 27 - Validation Loss: 0.308685
+2025-10-18 18:35:49,648 - INFO - Epoch: 28 - Training Loss: 0.464883
+2025-10-18 18:35:54,394 - INFO - Epoch: 28 - Validation Loss: 0.312006
+2025-10-18 18:36:32,986 - INFO - Epoch: 29 - Training Loss: 0.490800
+2025-10-18 18:36:37,653 - INFO - Epoch: 29 - Validation Loss: 0.422595
+2025-10-18 18:37:16,371 - INFO - Epoch: 30 - Training Loss: 0.485178
+2025-10-18 18:37:21,027 - INFO - Epoch: 30 - Validation Loss: 0.401630
+2025-10-18 18:37:59,751 - INFO - Epoch: 31 - Training Loss: 0.461702
+2025-10-18 18:38:04,418 - INFO - Best Model So Far in Epoch: 31
+2025-10-18 18:38:04,418 - INFO - Epoch: 31 - Validation Loss: 0.305325
+2025-10-18 18:38:43,158 - INFO - Epoch: 32 - Training Loss: 0.466272
+2025-10-18 18:38:47,800 - INFO - Epoch: 32 - Validation Loss: 0.374118
+2025-10-18 18:39:26,511 - INFO - Epoch: 33 - Training Loss: 0.464044
+2025-10-18 18:39:31,197 - INFO - Best Model So Far in Epoch: 33
+2025-10-18 18:39:31,197 - INFO - Epoch: 33 - Validation Loss: 0.304768
+2025-10-18 18:40:09,940 - INFO - Epoch: 34 - Training Loss: 0.423277
+2025-10-18 18:40:14,649 - INFO - Best Model So Far in Epoch: 34
+2025-10-18 18:40:14,649 - INFO - Epoch: 34 - Validation Loss: 0.298907
+2025-10-18 18:40:53,249 - INFO - Epoch: 35 - Training Loss: 0.435711
+2025-10-18 18:40:57,944 - INFO - Epoch: 35 - Validation Loss: 0.333894
+2025-10-18 18:41:36,614 - INFO - Epoch: 36 - Training Loss: 0.444893
+2025-10-18 18:41:41,285 - INFO - Best Model So Far in Epoch: 36
+2025-10-18 18:41:41,286 - INFO - Epoch: 36 - Validation Loss: 0.298414
+2025-10-18 18:42:20,001 - INFO - Epoch: 37 - Training Loss: 0.442093
+2025-10-18 18:42:24,677 - INFO - Epoch: 37 - Validation Loss: 0.315427
+2025-10-18 18:43:03,396 - INFO - Epoch: 38 - Training Loss: 0.445442
+2025-10-18 18:43:08,081 - INFO - Epoch: 38 - Validation Loss: 0.453186
+2025-10-18 18:43:46,811 - INFO - Epoch: 39 - Training Loss: 0.422402
+2025-10-18 18:43:51,473 - INFO - Epoch: 39 - Validation Loss: 0.347385
+2025-10-18 18:44:30,206 - INFO - Epoch: 40 - Training Loss: 0.419823
+2025-10-18 18:44:34,872 - INFO - Best Model So Far in Epoch: 40
+2025-10-18 18:44:34,872 - INFO - Epoch: 40 - Validation Loss: 0.297918
+2025-10-18 18:45:13,613 - INFO - Epoch: 41 - Training Loss: 0.406104
+2025-10-18 18:45:18,275 - INFO - Epoch: 41 - Validation Loss: 0.324508
+2025-10-18 18:45:56,889 - INFO - Epoch: 42 - Training Loss: 0.401756
+2025-10-18 18:46:01,548 - INFO - Best Model So Far in Epoch: 42
+2025-10-18 18:46:01,548 - INFO - Epoch: 42 - Validation Loss: 0.297464
+2025-10-18 18:46:40,265 - INFO - Epoch: 43 - Training Loss: 0.400803
+2025-10-18 18:46:44,972 - INFO - Best Model So Far in Epoch: 43
+2025-10-18 18:46:44,972 - INFO - Epoch: 43 - Validation Loss: 0.284167
+2025-10-18 18:47:23,740 - INFO - Epoch: 44 - Training Loss: 0.381744
+2025-10-18 18:47:28,435 - INFO - Epoch: 44 - Validation Loss: 0.294827
+2025-10-18 18:48:07,140 - INFO - Epoch: 45 - Training Loss: 0.388548
+2025-10-18 18:48:11,857 - INFO - Epoch: 45 - Validation Loss: 0.305943
+2025-10-18 18:48:50,587 - INFO - Epoch: 46 - Training Loss: 0.383942
+2025-10-18 18:48:55,251 - INFO - Epoch: 46 - Validation Loss: 0.410437
+2025-10-18 18:49:34,013 - INFO - Epoch: 47 - Training Loss: 0.387018
+2025-10-18 18:49:38,672 - INFO - Epoch: 47 - Validation Loss: 0.361310
+2025-10-18 18:50:17,417 - INFO - Epoch: 48 - Training Loss: 0.367713
+2025-10-18 18:50:22,088 - INFO - Epoch: 48 - Validation Loss: 0.288428
+2025-10-18 18:51:00,839 - INFO - Epoch: 49 - Training Loss: 0.366637
+2025-10-18 18:51:05,504 - INFO - Epoch: 49 - Validation Loss: 0.312149
+2025-10-18 18:51:44,247 - INFO - Epoch: 50 - Training Loss: 0.357077
+2025-10-18 18:51:48,896 - INFO - Best Model So Far in Epoch: 50
+2025-10-18 18:51:48,896 - INFO - Epoch: 50 - Validation Loss: 0.268566
+2025-10-19 01:27:47,020 - INFO - Epoch: 1 - Training Loss: 5.288686
+2025-10-19 01:28:16,827 - INFO - Best Model So Far in Epoch: 1
+2025-10-19 01:28:16,827 - INFO - Epoch: 1 - Validation Loss: 0.533182
+2025-10-19 01:28:55,026 - INFO - Epoch: 2 - Training Loss: 0.722292
+2025-10-19 01:28:59,690 - INFO - Best Model So Far in Epoch: 2
+2025-10-19 01:28:59,690 - INFO - Epoch: 2 - Validation Loss: 0.479994
+2025-10-19 01:29:39,236 - INFO - Epoch: 3 - Training Loss: 0.669825
+2025-10-19 01:29:43,981 - INFO - Best Model So Far in Epoch: 3
+2025-10-19 01:29:43,982 - INFO - Epoch: 3 - Validation Loss: 0.443379
+2025-10-19 01:30:21,610 - INFO - Epoch: 4 - Training Loss: 0.618674
+2025-10-19 01:30:26,316 - INFO - Epoch: 4 - Validation Loss: 0.444881
+2025-10-19 01:31:05,046 - INFO - Epoch: 5 - Training Loss: 0.593485
+2025-10-19 01:31:09,939 - INFO - Best Model So Far in Epoch: 5
+2025-10-19 01:31:09,939 - INFO - Epoch: 5 - Validation Loss: 0.413940
+2025-10-19 01:31:48,312 - INFO - Epoch: 6 - Training Loss: 0.617419
+2025-10-19 01:31:52,928 - INFO - Epoch: 6 - Validation Loss: 0.922958
+2025-10-19 01:32:31,350 - INFO - Epoch: 7 - Training Loss: 0.631704
+2025-10-19 01:32:35,988 - INFO - Epoch: 7 - Validation Loss: 0.418957
+2025-10-19 01:33:15,114 - INFO - Epoch: 8 - Training Loss: 0.629760
+2025-10-19 01:33:20,001 - INFO - Best Model So Far in Epoch: 8
+2025-10-19 01:33:20,001 - INFO - Epoch: 8 - Validation Loss: 0.404139
+2025-10-19 01:33:58,873 - INFO - Epoch: 9 - Training Loss: 0.593939
+2025-10-19 01:34:04,119 - INFO - Best Model So Far in Epoch: 9
+2025-10-19 01:34:04,119 - INFO - Epoch: 9 - Validation Loss: 0.398405
+2025-10-19 01:34:46,730 - INFO - Epoch: 10 - Training Loss: 0.859652
+2025-10-19 01:34:51,952 - INFO - Epoch: 10 - Validation Loss: 0.405297
+2025-10-19 01:35:34,856 - INFO - Epoch: 11 - Training Loss: 0.558937
+2025-10-19 01:35:40,158 - INFO - Epoch: 11 - Validation Loss: 0.443555
+2025-10-19 01:36:23,149 - INFO - Epoch: 12 - Training Loss: 0.570133
+2025-10-19 01:36:28,336 - INFO - Epoch: 12 - Validation Loss: 0.781560
+2025-10-19 01:37:11,517 - INFO - Epoch: 13 - Training Loss: 0.655212
+2025-10-19 01:37:16,674 - INFO - Epoch: 13 - Validation Loss: 0.431815
+2025-10-19 01:37:59,683 - INFO - Epoch: 14 - Training Loss: 0.560212
+2025-10-19 01:38:04,857 - INFO - Epoch: 14 - Validation Loss: 0.459554
+2025-10-19 01:38:42,738 - INFO - Epoch: 15 - Training Loss: 0.660449
+2025-10-19 01:38:47,510 - INFO - Epoch: 15 - Validation Loss: 0.476013
+2025-10-19 01:39:27,822 - INFO - Epoch: 16 - Training Loss: 0.590637
+2025-10-19 01:39:32,488 - INFO - Epoch: 16 - Validation Loss: 0.433083
+2025-10-19 01:40:12,107 - INFO - Epoch: 17 - Training Loss: 0.640731
+2025-10-19 01:40:17,208 - INFO - Best Model So Far in Epoch: 17
+2025-10-19 01:40:17,208 - INFO - Epoch: 17 - Validation Loss: 0.393412
+2025-10-19 01:41:00,574 - INFO - Epoch: 18 - Training Loss: 0.566354
+2025-10-19 01:41:05,811 - INFO - Epoch: 18 - Validation Loss: 0.969383
+2025-10-19 01:41:45,650 - INFO - Epoch: 19 - Training Loss: 0.627031
+2025-10-19 01:41:50,741 - INFO - Best Model So Far in Epoch: 19
+2025-10-19 01:41:50,741 - INFO - Epoch: 19 - Validation Loss: 0.380710
+2025-10-19 01:42:33,732 - INFO - Epoch: 20 - Training Loss: 0.522480
+2025-10-19 01:42:38,815 - INFO - Epoch: 20 - Validation Loss: 0.436668
+2025-10-19 01:43:21,192 - INFO - Epoch: 21 - Training Loss: 0.579868
+2025-10-19 01:43:26,378 - INFO - Epoch: 21 - Validation Loss: 1.051558
+2025-10-19 01:44:08,027 - INFO - Epoch: 22 - Training Loss: 0.553964
+2025-10-19 01:44:13,242 - INFO - Epoch: 22 - Validation Loss: 0.384463
+2025-10-19 01:44:55,398 - INFO - Epoch: 23 - Training Loss: 0.555386
+2025-10-19 01:45:00,593 - INFO - Best Model So Far in Epoch: 23
+2025-10-19 01:45:00,593 - INFO - Epoch: 23 - Validation Loss: 0.328271
+2025-10-19 01:45:43,392 - INFO - Epoch: 24 - Training Loss: 0.510307
+2025-10-19 01:45:48,557 - INFO - Epoch: 24 - Validation Loss: 0.352720
+2025-10-19 01:46:31,252 - INFO - Epoch: 25 - Training Loss: 0.606326
+2025-10-19 01:46:36,379 - INFO - Epoch: 25 - Validation Loss: 0.527146
+2025-10-19 01:47:14,902 - INFO - Epoch: 26 - Training Loss: 0.469350
+2025-10-19 01:47:20,230 - INFO - Epoch: 26 - Validation Loss: 0.648211
+2025-10-19 01:47:58,035 - INFO - Epoch: 27 - Training Loss: 0.538101
+2025-10-19 01:48:02,621 - INFO - Epoch: 27 - Validation Loss: 0.345576
+2025-10-19 01:48:41,261 - INFO - Epoch: 28 - Training Loss: 0.499996
+2025-10-19 01:48:46,563 - INFO - Epoch: 28 - Validation Loss: 0.385325
+2025-10-19 01:49:29,344 - INFO - Epoch: 29 - Training Loss: 0.512311
+2025-10-19 01:49:34,401 - INFO - Best Model So Far in Epoch: 29
+2025-10-19 01:49:34,401 - INFO - Epoch: 29 - Validation Loss: 0.311972
+2025-10-19 01:50:17,232 - INFO - Epoch: 30 - Training Loss: 0.500351
+2025-10-19 01:50:22,436 - INFO - Epoch: 30 - Validation Loss: 0.628659
+2025-10-19 01:51:04,589 - INFO - Epoch: 31 - Training Loss: 0.486383
+2025-10-19 01:51:09,771 - INFO - Epoch: 31 - Validation Loss: 0.325857
+2025-10-19 01:51:51,920 - INFO - Epoch: 32 - Training Loss: 0.463962
+2025-10-19 01:51:57,066 - INFO - Epoch: 32 - Validation Loss: 0.598930
+2025-10-19 01:52:39,959 - INFO - Epoch: 33 - Training Loss: 0.526498
+2025-10-19 01:52:45,230 - INFO - Epoch: 33 - Validation Loss: 0.380926
+2025-10-19 01:53:28,471 - INFO - Epoch: 34 - Training Loss: 0.438808
+2025-10-19 01:53:33,744 - INFO - Best Model So Far in Epoch: 34
+2025-10-19 01:53:33,744 - INFO - Epoch: 34 - Validation Loss: 0.293296
+2025-10-19 01:54:16,788 - INFO - Epoch: 35 - Training Loss: 0.488017
+2025-10-19 01:54:22,021 - INFO - Epoch: 35 - Validation Loss: 0.623799
+2025-10-19 01:55:05,077 - INFO - Epoch: 36 - Training Loss: 0.439213
+2025-10-19 01:55:10,201 - INFO - Epoch: 36 - Validation Loss: 0.638437
+2025-10-19 01:55:52,485 - INFO - Epoch: 37 - Training Loss: 0.414893
+2025-10-19 01:55:57,747 - INFO - Epoch: 37 - Validation Loss: 0.755542
+2025-10-19 01:56:40,775 - INFO - Epoch: 38 - Training Loss: 0.454084
+2025-10-19 01:56:45,935 - INFO - Epoch: 38 - Validation Loss: 0.409242
+2025-10-19 01:57:29,016 - INFO - Epoch: 39 - Training Loss: 0.450197
+2025-10-19 01:57:34,198 - INFO - Epoch: 39 - Validation Loss: 0.690396
+2025-10-19 01:58:14,907 - INFO - Epoch: 40 - Training Loss: 0.526118
+2025-10-19 01:58:19,706 - INFO - Epoch: 40 - Validation Loss: 1.437137
+2025-10-19 11:50:46,407 - INFO - Epoch: 1 - Training Loss: 6.108434
+2025-10-19 11:51:08,624 - INFO - Best Model So Far in Epoch: 1
+2025-10-19 11:51:08,624 - INFO - Epoch: 1 - Validation Loss: 0.857465
+2025-10-19 11:51:14,098 - INFO - Epoch: 2 - Training Loss: 0.757701
+2025-10-19 11:51:14,870 - INFO - Best Model So Far in Epoch: 2
+2025-10-19 11:51:14,870 - INFO - Epoch: 2 - Validation Loss: 0.637328
+2025-10-19 11:51:20,321 - INFO - Epoch: 3 - Training Loss: 0.683920
+2025-10-19 11:51:21,066 - INFO - Best Model So Far in Epoch: 3
+2025-10-19 11:51:21,067 - INFO - Epoch: 3 - Validation Loss: 0.592186
+2025-10-19 11:51:26,574 - INFO - Epoch: 4 - Training Loss: 0.633794
+2025-10-19 11:51:27,333 - INFO - Epoch: 4 - Validation Loss: 0.603620
+2025-10-19 11:51:32,928 - INFO - Epoch: 5 - Training Loss: 0.630053
+2025-10-19 11:51:33,704 - INFO - Best Model So Far in Epoch: 5
+2025-10-19 11:51:33,704 - INFO - Epoch: 5 - Validation Loss: 0.554007
+2025-10-19 11:51:39,209 - INFO - Epoch: 6 - Training Loss: 0.604543
+2025-10-19 11:51:39,968 - INFO - Epoch: 6 - Validation Loss: 0.561197
+2025-10-19 11:51:45,471 - INFO - Epoch: 7 - Training Loss: 0.597336
+2025-10-19 11:51:46,259 - INFO - Best Model So Far in Epoch: 7
+2025-10-19 11:51:46,259 - INFO - Epoch: 7 - Validation Loss: 0.544265
+2025-10-19 11:51:52,009 - INFO - Epoch: 8 - Training Loss: 0.602181
+2025-10-19 11:51:52,834 - INFO - Epoch: 8 - Validation Loss: 0.565707
+2025-10-19 11:51:58,454 - INFO - Epoch: 9 - Training Loss: 0.595847
+2025-10-19 11:51:59,222 - INFO - Epoch: 9 - Validation Loss: 0.577267
+2025-10-19 11:52:04,852 - INFO - Epoch: 10 - Training Loss: 0.587088
+2025-10-19 11:52:05,607 - INFO - Best Model So Far in Epoch: 10
+2025-10-19 11:52:05,607 - INFO - Epoch: 10 - Validation Loss: 0.531388
+2025-10-19 11:52:11,130 - INFO - Epoch: 11 - Training Loss: 0.585079
+2025-10-19 11:52:11,925 - INFO - Epoch: 11 - Validation Loss: 0.551847
+2025-10-19 11:52:17,562 - INFO - Epoch: 12 - Training Loss: 0.589656
+2025-10-19 11:52:18,303 - INFO - Epoch: 12 - Validation Loss: 0.532787
+2025-10-19 11:52:23,729 - INFO - Epoch: 13 - Training Loss: 0.589881
+2025-10-19 11:52:24,478 - INFO - Epoch: 13 - Validation Loss: 0.621945
+2025-10-19 11:52:29,909 - INFO - Epoch: 14 - Training Loss: 0.593881
+2025-10-19 11:52:30,637 - INFO - Best Model So Far in Epoch: 14
+2025-10-19 11:52:30,638 - INFO - Epoch: 14 - Validation Loss: 0.519295
+2025-10-19 11:52:36,100 - INFO - Epoch: 15 - Training Loss: 0.585021
+2025-10-19 11:52:36,819 - INFO - Epoch: 15 - Validation Loss: 0.574978
+2025-10-19 11:52:42,289 - INFO - Epoch: 16 - Training Loss: 0.573940
+2025-10-19 11:52:43,047 - INFO - Best Model So Far in Epoch: 16
+2025-10-19 11:52:43,047 - INFO - Epoch: 16 - Validation Loss: 0.517059
+2025-10-19 11:52:48,523 - INFO - Epoch: 17 - Training Loss: 0.574512
+2025-10-19 11:52:49,281 - INFO - Best Model So Far in Epoch: 17
+2025-10-19 11:52:49,281 - INFO - Epoch: 17 - Validation Loss: 0.483056
+2025-10-19 11:52:54,748 - INFO - Epoch: 18 - Training Loss: 0.524481
+2025-10-19 11:52:55,488 - INFO - Best Model So Far in Epoch: 18
+2025-10-19 11:52:55,488 - INFO - Epoch: 18 - Validation Loss: 0.469929
+2025-10-19 11:53:00,988 - INFO - Epoch: 19 - Training Loss: 0.513973
+2025-10-19 11:53:01,700 - INFO - Best Model So Far in Epoch: 19
+2025-10-19 11:53:01,700 - INFO - Epoch: 19 - Validation Loss: 0.457820
+2025-10-19 11:53:07,123 - INFO - Epoch: 20 - Training Loss: 0.511226
+2025-10-19 11:53:07,877 - INFO - Epoch: 20 - Validation Loss: 0.463481
+2025-10-19 11:53:13,318 - INFO - Epoch: 21 - Training Loss: 0.518164
+2025-10-19 11:53:14,079 - INFO - Epoch: 21 - Validation Loss: 0.460951
+2025-10-19 11:53:19,564 - INFO - Epoch: 22 - Training Loss: 0.514176
+2025-10-19 11:53:20,312 - INFO - Epoch: 22 - Validation Loss: 0.469961
+2025-10-19 11:53:25,776 - INFO - Epoch: 23 - Training Loss: 0.496074
+2025-10-19 11:53:26,515 - INFO - Epoch: 23 - Validation Loss: 0.602283
+2025-10-19 11:53:31,978 - INFO - Epoch: 24 - Training Loss: 0.515546
+2025-10-19 11:53:32,724 - INFO - Epoch: 24 - Validation Loss: 0.576228
+2025-10-19 11:53:38,201 - INFO - Epoch: 25 - Training Loss: 0.494473
+2025-10-19 11:53:38,928 - INFO - Epoch: 25 - Validation Loss: 0.507762
+2025-10-19 11:53:44,474 - INFO - Epoch: 26 - Training Loss: 0.487593
+2025-10-19 11:53:45,218 - INFO - Epoch: 26 - Validation Loss: 0.623605
+2025-10-19 11:53:50,678 - INFO - Epoch: 27 - Training Loss: 0.445354
+2025-10-19 11:53:51,392 - INFO - Best Model So Far in Epoch: 27
+2025-10-19 11:53:51,392 - INFO - Epoch: 27 - Validation Loss: 0.443395
+2025-10-19 11:53:56,890 - INFO - Epoch: 28 - Training Loss: 0.423898
+2025-10-19 11:53:57,616 - INFO - Best Model So Far in Epoch: 28
+2025-10-19 11:53:57,616 - INFO - Epoch: 28 - Validation Loss: 0.376520
+2025-10-19 11:54:03,099 - INFO - Epoch: 29 - Training Loss: 0.434916
+2025-10-19 11:54:03,843 - INFO - Epoch: 29 - Validation Loss: 0.377026
+2025-10-19 11:54:09,328 - INFO - Epoch: 30 - Training Loss: 0.399376
+2025-10-19 11:54:10,070 - INFO - Best Model So Far in Epoch: 30
+2025-10-19 11:54:10,070 - INFO - Epoch: 30 - Validation Loss: 0.362846
+2025-10-19 11:54:15,494 - INFO - Epoch: 31 - Training Loss: 0.391514
+2025-10-19 11:54:16,233 - INFO - Epoch: 31 - Validation Loss: 0.488507
+2025-10-19 11:54:21,696 - INFO - Epoch: 32 - Training Loss: 0.402423
+2025-10-19 11:54:22,453 - INFO - Best Model So Far in Epoch: 32
+2025-10-19 11:54:22,453 - INFO - Epoch: 32 - Validation Loss: 0.344953
+2025-10-19 11:54:27,895 - INFO - Epoch: 33 - Training Loss: 0.406321
+2025-10-19 11:54:28,650 - INFO - Epoch: 33 - Validation Loss: 0.746011
+2025-10-19 11:54:34,114 - INFO - Epoch: 34 - Training Loss: 0.451175
+2025-10-19 11:54:34,840 - INFO - Epoch: 34 - Validation Loss: 0.370675
+2025-10-19 11:54:40,296 - INFO - Epoch: 35 - Training Loss: 0.390241
+2025-10-19 11:54:41,009 - INFO - Best Model So Far in Epoch: 35
+2025-10-19 11:54:41,010 - INFO - Epoch: 35 - Validation Loss: 0.332375
+2025-10-19 11:54:46,505 - INFO - Epoch: 36 - Training Loss: 0.364431
+2025-10-19 11:54:47,220 - INFO - Epoch: 36 - Validation Loss: 0.391490
+2025-10-19 11:54:52,711 - INFO - Epoch: 37 - Training Loss: 0.363592
+2025-10-19 11:54:53,448 - INFO - Best Model So Far in Epoch: 37
+2025-10-19 11:54:53,448 - INFO - Epoch: 37 - Validation Loss: 0.322440
+2025-10-19 11:54:58,932 - INFO - Epoch: 38 - Training Loss: 0.366064
+2025-10-19 11:54:59,679 - INFO - Epoch: 38 - Validation Loss: 0.518135
+2025-10-19 11:55:05,166 - INFO - Epoch: 39 - Training Loss: 0.430764
+2025-10-19 11:55:05,912 - INFO - Epoch: 39 - Validation Loss: 0.383744
+2025-10-19 11:55:11,472 - INFO - Epoch: 40 - Training Loss: 0.361994
+2025-10-19 11:55:12,186 - INFO - Epoch: 40 - Validation Loss: 0.324514
+2025-10-19 11:55:17,676 - INFO - Epoch: 41 - Training Loss: 0.360824
+2025-10-19 11:55:18,420 - INFO - Epoch: 41 - Validation Loss: 0.481729
+2025-10-19 11:55:23,911 - INFO - Epoch: 42 - Training Loss: 0.405974
+2025-10-19 11:55:24,627 - INFO - Best Model So Far in Epoch: 42
+2025-10-19 11:55:24,627 - INFO - Epoch: 42 - Validation Loss: 0.299959
+2025-10-19 11:55:30,140 - INFO - Epoch: 43 - Training Loss: 0.338840
+2025-10-19 11:55:30,896 - INFO - Epoch: 43 - Validation Loss: 0.479249
+2025-10-19 11:55:36,325 - INFO - Epoch: 44 - Training Loss: 0.361666
+2025-10-19 11:55:37,034 - INFO - Epoch: 44 - Validation Loss: 0.316023
+2025-10-19 11:55:42,560 - INFO - Epoch: 45 - Training Loss: 0.330942
+2025-10-19 11:55:43,324 - INFO - Best Model So Far in Epoch: 45
+2025-10-19 11:55:43,324 - INFO - Epoch: 45 - Validation Loss: 0.296713
+2025-10-19 11:55:48,771 - INFO - Epoch: 46 - Training Loss: 0.327593
+2025-10-19 11:55:49,501 - INFO - Best Model So Far in Epoch: 46
+2025-10-19 11:55:49,501 - INFO - Epoch: 46 - Validation Loss: 0.292289
+2025-10-19 11:55:54,938 - INFO - Epoch: 47 - Training Loss: 0.326264
+2025-10-19 11:55:55,668 - INFO - Epoch: 47 - Validation Loss: 0.517535
+2025-10-19 11:56:01,115 - INFO - Epoch: 48 - Training Loss: 0.350816
+2025-10-19 11:56:01,870 - INFO - Epoch: 48 - Validation Loss: 0.394387
+2025-10-19 11:56:07,316 - INFO - Epoch: 49 - Training Loss: 0.386556
+2025-10-19 11:56:08,053 - INFO - Epoch: 49 - Validation Loss: 0.314407
+2025-10-19 11:56:13,522 - INFO - Epoch: 50 - Training Loss: 0.298164
+2025-10-19 11:56:14,247 - INFO - Best Model So Far in Epoch: 50
+2025-10-19 11:56:14,248 - INFO - Epoch: 50 - Validation Loss: 0.275010
+2025-10-19 11:56:38,627 - INFO - Best Model Loaded from Epoch: 50
+2025-10-19 12:00:08,560 - INFO - Epoch: 1 - Training Loss: 9.871889
+2025-10-19 12:00:30,643 - INFO - Best Model So Far in Epoch: 1
+2025-10-19 12:00:30,643 - INFO - Epoch: 1 - Validation Loss: 0.757255
+2025-10-19 12:00:36,051 - INFO - Epoch: 2 - Training Loss: 0.838110
+2025-10-19 12:00:36,771 - INFO - Best Model So Far in Epoch: 2
+2025-10-19 12:00:36,771 - INFO - Epoch: 2 - Validation Loss: 0.678122
+2025-10-19 12:00:42,214 - INFO - Epoch: 3 - Training Loss: 0.720301
+2025-10-19 12:00:42,952 - INFO - Best Model So Far in Epoch: 3
+2025-10-19 12:00:42,952 - INFO - Epoch: 3 - Validation Loss: 0.624116
+2025-10-19 12:00:48,493 - INFO - Epoch: 4 - Training Loss: 0.694827
+2025-10-19 12:00:49,284 - INFO - Epoch: 4 - Validation Loss: 0.641641
+2025-10-19 12:00:54,764 - INFO - Epoch: 5 - Training Loss: 0.676693
+2025-10-19 12:00:55,497 - INFO - Best Model So Far in Epoch: 5
+2025-10-19 12:00:55,497 - INFO - Epoch: 5 - Validation Loss: 0.588725
+2025-10-19 12:01:01,029 - INFO - Epoch: 6 - Training Loss: 0.640970
+2025-10-19 12:01:01,834 - INFO - Best Model So Far in Epoch: 6
+2025-10-19 12:01:01,835 - INFO - Epoch: 6 - Validation Loss: 0.574184
+2025-10-19 12:01:07,506 - INFO - Epoch: 7 - Training Loss: 0.635612
+2025-10-19 12:01:08,248 - INFO - Best Model So Far in Epoch: 7
+2025-10-19 12:01:08,249 - INFO - Epoch: 7 - Validation Loss: 0.554153
+2025-10-19 12:01:13,950 - INFO - Epoch: 8 - Training Loss: 0.614069
+2025-10-19 12:01:14,688 - INFO - Epoch: 8 - Validation Loss: 0.611948
+2025-10-19 12:01:20,422 - INFO - Epoch: 9 - Training Loss: 0.613884
+2025-10-19 12:01:21,151 - INFO - Epoch: 9 - Validation Loss: 0.556338
+2025-10-19 12:01:27,301 - INFO - Epoch: 10 - Training Loss: 0.611101
+2025-10-19 12:01:28,058 - INFO - Best Model So Far in Epoch: 10
+2025-10-19 12:01:28,058 - INFO - Epoch: 10 - Validation Loss: 0.538860
+2025-10-19 12:01:33,637 - INFO - Epoch: 11 - Training Loss: 0.593226
+2025-10-19 12:01:34,405 - INFO - Epoch: 11 - Validation Loss: 0.660966
+2025-10-19 12:01:40,191 - INFO - Epoch: 12 - Training Loss: 0.607259
+2025-10-19 12:01:40,986 - INFO - Best Model So Far in Epoch: 12
+2025-10-19 12:01:40,986 - INFO - Epoch: 12 - Validation Loss: 0.526633
+2025-10-19 12:01:46,539 - INFO - Epoch: 13 - Training Loss: 0.573952
+2025-10-19 12:01:47,279 - INFO - Epoch: 13 - Validation Loss: 0.594122
+2025-10-19 12:01:52,740 - INFO - Epoch: 14 - Training Loss: 0.573410
+2025-10-19 12:01:53,455 - INFO - Epoch: 14 - Validation Loss: 0.615866
+2025-10-19 12:01:58,882 - INFO - Epoch: 15 - Training Loss: 0.579919
+2025-10-19 12:01:59,618 - INFO - Best Model So Far in Epoch: 15
+2025-10-19 12:01:59,618 - INFO - Epoch: 15 - Validation Loss: 0.494902
+2025-10-19 12:02:05,111 - INFO - Epoch: 16 - Training Loss: 0.550025
+2025-10-19 12:02:05,870 - INFO - Best Model So Far in Epoch: 16
+2025-10-19 12:02:05,870 - INFO - Epoch: 16 - Validation Loss: 0.474347
+2025-10-19 12:02:11,318 - INFO - Epoch: 17 - Training Loss: 0.533994
+2025-10-19 12:02:12,077 - INFO - Epoch: 17 - Validation Loss: 0.486035
+2025-10-19 12:02:17,510 - INFO - Epoch: 18 - Training Loss: 0.529838
+2025-10-19 12:02:18,261 - INFO - Epoch: 18 - Validation Loss: 0.518647
+2025-10-19 12:02:23,717 - INFO - Epoch: 19 - Training Loss: 0.529677
+2025-10-19 12:02:24,453 - INFO - Epoch: 19 - Validation Loss: 0.486145
+2025-10-19 12:02:29,981 - INFO - Epoch: 20 - Training Loss: 0.523030
+2025-10-19 12:02:30,714 - INFO - Best Model So Far in Epoch: 20
+2025-10-19 12:02:30,715 - INFO - Epoch: 20 - Validation Loss: 0.443588
+2025-10-19 12:02:36,150 - INFO - Epoch: 21 - Training Loss: 0.483073
+2025-10-19 12:02:36,870 - INFO - Epoch: 21 - Validation Loss: 0.788924
+2025-10-19 12:02:42,347 - INFO - Epoch: 22 - Training Loss: 0.523837
+2025-10-19 12:02:43,058 - INFO - Epoch: 22 - Validation Loss: 0.575963
+2025-10-19 12:02:48,548 - INFO - Epoch: 23 - Training Loss: 0.473447
+2025-10-19 12:02:49,272 - INFO - Epoch: 23 - Validation Loss: 0.452797
+2025-10-19 12:02:54,948 - INFO - Epoch: 24 - Training Loss: 0.422013
+2025-10-19 12:02:55,712 - INFO - Best Model So Far in Epoch: 24
+2025-10-19 12:02:55,712 - INFO - Epoch: 24 - Validation Loss: 0.419860
+2025-10-19 12:03:01,210 - INFO - Epoch: 25 - Training Loss: 0.426096
+2025-10-19 12:03:01,989 - INFO - Best Model So Far in Epoch: 25
+2025-10-19 12:03:01,989 - INFO - Epoch: 25 - Validation Loss: 0.343880
+2025-10-19 12:03:07,441 - INFO - Epoch: 26 - Training Loss: 0.402187
+2025-10-19 12:03:08,218 - INFO - Epoch: 26 - Validation Loss: 0.344223
+2025-10-19 12:03:13,683 - INFO - Epoch: 27 - Training Loss: 0.397164
+2025-10-19 12:03:14,449 - INFO - Epoch: 27 - Validation Loss: 0.427959
+2025-10-19 12:03:19,982 - INFO - Epoch: 28 - Training Loss: 0.410837
+2025-10-19 12:03:20,762 - INFO - Best Model So Far in Epoch: 28
+2025-10-19 12:03:20,762 - INFO - Epoch: 28 - Validation Loss: 0.336940
+2025-10-19 12:03:26,480 - INFO - Epoch: 29 - Training Loss: 0.361711
+2025-10-19 12:03:27,255 - INFO - Best Model So Far in Epoch: 29
+2025-10-19 12:03:27,255 - INFO - Epoch: 29 - Validation Loss: 0.322920
+2025-10-19 12:03:32,992 - INFO - Epoch: 30 - Training Loss: 0.365154
+2025-10-19 12:03:33,751 - INFO - Epoch: 30 - Validation Loss: 0.373774
+2025-10-19 12:03:39,295 - INFO - Epoch: 31 - Training Loss: 0.369848
+2025-10-19 12:03:40,085 - INFO - Epoch: 31 - Validation Loss: 0.329877
+2025-10-19 12:03:45,643 - INFO - Epoch: 32 - Training Loss: 0.360212
+2025-10-19 12:03:46,433 - INFO - Epoch: 32 - Validation Loss: 0.352897
+2025-10-19 12:03:51,960 - INFO - Epoch: 33 - Training Loss: 0.366638
+2025-10-19 12:03:52,742 - INFO - Epoch: 33 - Validation Loss: 0.333723
+2025-10-19 12:03:58,375 - INFO - Epoch: 34 - Training Loss: 0.373165
+2025-10-19 12:03:59,133 - INFO - Epoch: 34 - Validation Loss: 0.330382
+2025-10-19 12:04:04,683 - INFO - Epoch: 35 - Training Loss: 0.355994
+2025-10-19 12:04:05,450 - INFO - Epoch: 35 - Validation Loss: 0.367076
+2025-10-19 12:04:10,939 - INFO - Epoch: 36 - Training Loss: 0.365568
+2025-10-19 12:04:11,722 - INFO - Epoch: 36 - Validation Loss: 0.501456
+2025-10-19 12:04:17,255 - INFO - Epoch: 37 - Training Loss: 0.380314
+2025-10-19 12:04:18,028 - INFO - Epoch: 37 - Validation Loss: 0.343992
+2025-10-19 12:04:23,682 - INFO - Epoch: 38 - Training Loss: 0.355762
+2025-10-19 12:04:24,484 - INFO - Best Model So Far in Epoch: 38
+2025-10-19 12:04:24,484 - INFO - Epoch: 38 - Validation Loss: 0.309581
+2025-10-19 12:04:30,024 - INFO - Epoch: 39 - Training Loss: 0.327416
+2025-10-19 12:04:30,789 - INFO - Epoch: 39 - Validation Loss: 0.319376
+2025-10-19 12:04:36,263 - INFO - Epoch: 40 - Training Loss: 0.314017
+2025-10-19 12:04:37,012 - INFO - Best Model So Far in Epoch: 40
+2025-10-19 12:04:37,012 - INFO - Epoch: 40 - Validation Loss: 0.306128
+2025-10-19 12:04:42,484 - INFO - Epoch: 41 - Training Loss: 0.334952
+2025-10-19 12:04:43,271 - INFO - Epoch: 41 - Validation Loss: 0.347734
+2025-10-19 12:04:48,725 - INFO - Epoch: 42 - Training Loss: 0.315719
+2025-10-19 12:04:49,498 - INFO - Best Model So Far in Epoch: 42
+2025-10-19 12:04:49,498 - INFO - Epoch: 42 - Validation Loss: 0.298626
+2025-10-19 12:04:54,984 - INFO - Epoch: 43 - Training Loss: 0.306420
+2025-10-19 12:04:55,778 - INFO - Epoch: 43 - Validation Loss: 0.347493
+2025-10-19 12:05:01,303 - INFO - Epoch: 44 - Training Loss: 0.309258
+2025-10-19 12:05:02,083 - INFO - Epoch: 44 - Validation Loss: 0.298678
+2025-10-19 12:05:07,571 - INFO - Epoch: 45 - Training Loss: 0.308289
+2025-10-19 12:05:08,339 - INFO - Epoch: 45 - Validation Loss: 0.544112
+2025-10-19 12:05:13,821 - INFO - Epoch: 46 - Training Loss: 0.316829
+2025-10-19 12:05:14,602 - INFO - Epoch: 46 - Validation Loss: 0.304588
+2025-10-19 12:05:20,139 - INFO - Epoch: 47 - Training Loss: 0.286558
+2025-10-19 12:05:20,883 - INFO - Epoch: 47 - Validation Loss: 0.481013
+2025-10-19 12:05:26,403 - INFO - Epoch: 48 - Training Loss: 0.290879
+2025-10-19 12:05:27,157 - INFO - Epoch: 48 - Validation Loss: 0.489679
+2025-10-19 12:05:32,681 - INFO - Epoch: 49 - Training Loss: 0.320582
+2025-10-19 12:05:33,493 - INFO - Best Model So Far in Epoch: 49
+2025-10-19 12:05:33,493 - INFO - Epoch: 49 - Validation Loss: 0.280004
+2025-10-19 12:05:39,085 - INFO - Epoch: 50 - Training Loss: 0.283242
+2025-10-19 12:05:39,878 - INFO - Epoch: 50 - Validation Loss: 0.349414
+2025-10-19 12:05:45,631 - INFO - Epoch: 51 - Training Loss: 0.290185
+2025-10-19 12:05:46,403 - INFO - Epoch: 51 - Validation Loss: 0.342010
+2025-10-19 12:05:52,052 - INFO - Epoch: 52 - Training Loss: 0.293153
+2025-10-19 12:05:52,916 - INFO - Epoch: 52 - Validation Loss: 0.329243
+2025-10-19 12:05:58,546 - INFO - Epoch: 53 - Training Loss: 0.274193
+2025-10-19 12:05:59,296 - INFO - Epoch: 53 - Validation Loss: 0.367211
+2025-10-19 12:06:04,973 - INFO - Epoch: 54 - Training Loss: 0.266021
+2025-10-19 12:06:05,749 - INFO - Epoch: 54 - Validation Loss: 0.329712
+2025-10-19 12:06:11,295 - INFO - Epoch: 55 - Training Loss: 0.259127
+2025-10-19 12:06:12,060 - INFO - Epoch: 55 - Validation Loss: 0.309288
+2025-10-19 12:06:17,574 - INFO - Epoch: 56 - Training Loss: 0.255660
+2025-10-19 12:06:18,323 - INFO - Epoch: 56 - Validation Loss: 0.315629
+2025-10-19 12:06:23,847 - INFO - Epoch: 57 - Training Loss: 0.260258
+2025-10-19 12:06:24,615 - INFO - Best Model So Far in Epoch: 57
+2025-10-19 12:06:24,615 - INFO - Epoch: 57 - Validation Loss: 0.279704
+2025-10-19 12:06:30,139 - INFO - Epoch: 58 - Training Loss: 0.273949
+2025-10-19 12:06:30,881 - INFO - Epoch: 58 - Validation Loss: 0.288256
+2025-10-19 12:06:36,354 - INFO - Epoch: 59 - Training Loss: 0.255083
+2025-10-19 12:06:37,134 - INFO - Epoch: 59 - Validation Loss: 0.342978
+2025-10-19 12:06:42,623 - INFO - Epoch: 60 - Training Loss: 0.353218
+2025-10-19 12:06:43,373 - INFO - Best Model So Far in Epoch: 60
+2025-10-19 12:06:43,374 - INFO - Epoch: 60 - Validation Loss: 0.265674
+2025-10-19 12:06:48,921 - INFO - Epoch: 61 - Training Loss: 0.254708
+2025-10-19 12:06:49,705 - INFO - Epoch: 61 - Validation Loss: 0.287606
+2025-10-19 12:06:55,233 - INFO - Epoch: 62 - Training Loss: 0.249789
+2025-10-19 12:06:55,979 - INFO - Epoch: 62 - Validation Loss: 0.291330
+2025-10-19 12:07:01,518 - INFO - Epoch: 63 - Training Loss: 0.238274
+2025-10-19 12:07:02,275 - INFO - Epoch: 63 - Validation Loss: 0.270762
+2025-10-19 12:07:07,783 - INFO - Epoch: 64 - Training Loss: 0.242391
+2025-10-19 12:07:08,564 - INFO - Epoch: 64 - Validation Loss: 0.343670
+2025-10-19 12:07:14,113 - INFO - Epoch: 65 - Training Loss: 0.258300
+2025-10-19 12:07:14,891 - INFO - Epoch: 65 - Validation Loss: 0.328175
+2025-10-19 12:07:20,406 - INFO - Epoch: 66 - Training Loss: 0.255024
+2025-10-19 12:07:21,179 - INFO - Epoch: 66 - Validation Loss: 0.281127
+2025-10-19 12:07:26,659 - INFO - Epoch: 67 - Training Loss: 0.253736
+2025-10-19 12:07:27,447 - INFO - Epoch: 67 - Validation Loss: 0.275794
+2025-10-19 12:07:32,979 - INFO - Epoch: 68 - Training Loss: 0.281998
+2025-10-19 12:07:33,743 - INFO - Epoch: 68 - Validation Loss: 0.379602
+2025-10-19 12:07:39,224 - INFO - Epoch: 69 - Training Loss: 0.236213
+2025-10-19 12:07:39,992 - INFO - Epoch: 69 - Validation Loss: 0.276604
+2025-10-19 12:07:45,555 - INFO - Epoch: 70 - Training Loss: 0.241260
+2025-10-19 12:07:46,334 - INFO - Epoch: 70 - Validation Loss: 0.286662
+2025-10-19 12:07:51,857 - INFO - Epoch: 71 - Training Loss: 0.232859
+2025-10-19 12:07:52,597 - INFO - Epoch: 71 - Validation Loss: 0.292520
+2025-10-19 12:07:58,117 - INFO - Epoch: 72 - Training Loss: 0.223302
+2025-10-19 12:07:58,887 - INFO - Epoch: 72 - Validation Loss: 0.281975
+2025-10-19 12:08:04,378 - INFO - Epoch: 73 - Training Loss: 0.253930
+2025-10-19 12:08:05,150 - INFO - Epoch: 73 - Validation Loss: 0.282020
+2025-10-19 12:08:10,698 - INFO - Epoch: 74 - Training Loss: 0.253802
+2025-10-19 12:08:11,465 - INFO - Best Model So Far in Epoch: 74
+2025-10-19 12:08:11,465 - INFO - Epoch: 74 - Validation Loss: 0.250585
+2025-10-19 12:08:16,939 - INFO - Epoch: 75 - Training Loss: 0.238389
+2025-10-19 12:08:17,713 - INFO - Epoch: 75 - Validation Loss: 0.290790
+2025-10-19 12:08:23,241 - INFO - Epoch: 76 - Training Loss: 0.264638
+2025-10-19 12:08:24,025 - INFO - Epoch: 76 - Validation Loss: 0.315858
+2025-10-19 12:08:29,566 - INFO - Epoch: 77 - Training Loss: 0.239631
+2025-10-19 12:08:30,329 - INFO - Epoch: 77 - Validation Loss: 0.264256
+2025-10-19 12:08:35,849 - INFO - Epoch: 78 - Training Loss: 0.219367
+2025-10-19 12:08:36,618 - INFO - Best Model So Far in Epoch: 78
+2025-10-19 12:08:36,618 - INFO - Epoch: 78 - Validation Loss: 0.248545
+2025-10-19 12:08:42,103 - INFO - Epoch: 79 - Training Loss: 0.214168
+2025-10-19 12:08:42,840 - INFO - Best Model So Far in Epoch: 79
+2025-10-19 12:08:42,840 - INFO - Epoch: 79 - Validation Loss: 0.239562
+2025-10-19 12:08:48,376 - INFO - Epoch: 80 - Training Loss: 0.201439
+2025-10-19 12:08:49,147 - INFO - Epoch: 80 - Validation Loss: 0.306084
+2025-10-19 12:09:11,795 - INFO - Best Model Loaded from Epoch: 79
+2025-10-19 12:16:08,876 - INFO - Epoch: 1 - Training Loss: 10.445724
+2025-10-19 12:16:30,738 - INFO - Best Model So Far in Epoch: 1
+2025-10-19 12:16:30,738 - INFO - Epoch: 1 - Validation Loss: 1.583471
+2025-10-19 12:16:36,159 - INFO - Epoch: 2 - Training Loss: 0.967795
+2025-10-19 12:16:36,912 - INFO - Best Model So Far in Epoch: 2
+2025-10-19 12:16:36,912 - INFO - Epoch: 2 - Validation Loss: 0.740090
+2025-10-19 12:16:42,361 - INFO - Epoch: 3 - Training Loss: 0.817413
+2025-10-19 12:16:43,102 - INFO - Best Model So Far in Epoch: 3
+2025-10-19 12:16:43,102 - INFO - Epoch: 3 - Validation Loss: 0.688717
+2025-10-19 12:16:48,525 - INFO - Epoch: 4 - Training Loss: 0.763649
+2025-10-19 12:16:49,264 - INFO - Best Model So Far in Epoch: 4
+2025-10-19 12:16:49,264 - INFO - Epoch: 4 - Validation Loss: 0.659210
+2025-10-19 12:16:54,725 - INFO - Epoch: 5 - Training Loss: 0.729560
+2025-10-19 12:16:55,451 - INFO - Best Model So Far in Epoch: 5
+2025-10-19 12:16:55,451 - INFO - Epoch: 5 - Validation Loss: 0.603255
+2025-10-19 12:17:00,901 - INFO - Epoch: 6 - Training Loss: 0.685262
+2025-10-19 12:17:01,631 - INFO - Best Model So Far in Epoch: 6
+2025-10-19 12:17:01,631 - INFO - Epoch: 6 - Validation Loss: 0.586327
+2025-10-19 12:17:07,056 - INFO - Epoch: 7 - Training Loss: 0.659475
+2025-10-19 12:17:07,778 - INFO - Epoch: 7 - Validation Loss: 0.594985
+2025-10-19 12:17:13,216 - INFO - Epoch: 8 - Training Loss: 0.640291
+2025-10-19 12:17:13,952 - INFO - Best Model So Far in Epoch: 8
+2025-10-19 12:17:13,952 - INFO - Epoch: 8 - Validation Loss: 0.565658
+2025-10-19 12:17:19,376 - INFO - Epoch: 9 - Training Loss: 0.631682
+2025-10-19 12:17:20,084 - INFO - Best Model So Far in Epoch: 9
+2025-10-19 12:17:20,084 - INFO - Epoch: 9 - Validation Loss: 0.545230
+2025-10-19 12:17:25,518 - INFO - Epoch: 10 - Training Loss: 0.628328
+2025-10-19 12:17:26,267 - INFO - Best Model So Far in Epoch: 10
+2025-10-19 12:17:26,267 - INFO - Epoch: 10 - Validation Loss: 0.542233
+2025-10-19 12:17:31,734 - INFO - Epoch: 11 - Training Loss: 0.637426
+2025-10-19 12:17:32,473 - INFO - Epoch: 11 - Validation Loss: 0.644977
+2025-10-19 12:17:38,016 - INFO - Epoch: 12 - Training Loss: 0.624935
+2025-10-19 12:17:38,782 - INFO - Best Model So Far in Epoch: 12
+2025-10-19 12:17:38,782 - INFO - Epoch: 12 - Validation Loss: 0.520475
+2025-10-19 12:17:44,217 - INFO - Epoch: 13 - Training Loss: 0.589156
+2025-10-19 12:17:44,932 - INFO - Epoch: 13 - Validation Loss: 0.537770
+2025-10-19 12:17:50,368 - INFO - Epoch: 14 - Training Loss: 0.576387
+2025-10-19 12:17:51,084 - INFO - Best Model So Far in Epoch: 14
+2025-10-19 12:17:51,084 - INFO - Epoch: 14 - Validation Loss: 0.500851
+2025-10-19 12:17:56,578 - INFO - Epoch: 15 - Training Loss: 0.568768
+2025-10-19 12:17:57,330 - INFO - Epoch: 15 - Validation Loss: 0.594841
+2025-10-19 12:18:02,776 - INFO - Epoch: 16 - Training Loss: 0.576917
+2025-10-19 12:18:03,530 - INFO - Best Model So Far in Epoch: 16
+2025-10-19 12:18:03,531 - INFO - Epoch: 16 - Validation Loss: 0.489993
+2025-10-19 12:18:08,953 - INFO - Epoch: 17 - Training Loss: 0.571697
+2025-10-19 12:18:09,671 - INFO - Epoch: 17 - Validation Loss: 0.499733
+2025-10-19 12:18:15,126 - INFO - Epoch: 18 - Training Loss: 0.554820
+2025-10-19 12:18:15,863 - INFO - Best Model So Far in Epoch: 18
+2025-10-19 12:18:15,863 - INFO - Epoch: 18 - Validation Loss: 0.484786
+2025-10-19 12:18:21,331 - INFO - Epoch: 19 - Training Loss: 0.562902
+2025-10-19 12:18:22,080 - INFO - Epoch: 19 - Validation Loss: 0.534543
+2025-10-19 12:18:27,510 - INFO - Epoch: 20 - Training Loss: 0.541051
+2025-10-19 12:18:28,232 - INFO - Best Model So Far in Epoch: 20
+2025-10-19 12:18:28,232 - INFO - Epoch: 20 - Validation Loss: 0.466208
+2025-10-19 12:18:33,719 - INFO - Epoch: 21 - Training Loss: 0.537141
+2025-10-19 12:18:34,462 - INFO - Epoch: 21 - Validation Loss: 0.554544
+2025-10-19 12:18:39,886 - INFO - Epoch: 22 - Training Loss: 0.534190
+2025-10-19 12:18:40,600 - INFO - Epoch: 22 - Validation Loss: 0.578708
+2025-10-19 12:18:46,027 - INFO - Epoch: 23 - Training Loss: 0.538685
+2025-10-19 12:18:46,771 - INFO - Epoch: 23 - Validation Loss: 0.520185
+2025-10-19 12:18:52,193 - INFO - Epoch: 24 - Training Loss: 0.541461
+2025-10-19 12:18:52,924 - INFO - Best Model So Far in Epoch: 24
+2025-10-19 12:18:52,924 - INFO - Epoch: 24 - Validation Loss: 0.447735
+2025-10-19 12:18:58,385 - INFO - Epoch: 25 - Training Loss: 0.522629
+2025-10-19 12:18:59,128 - INFO - Epoch: 25 - Validation Loss: 0.453693
+2025-10-19 12:19:04,554 - INFO - Epoch: 26 - Training Loss: 0.523083
+2025-10-19 12:19:05,331 - INFO - Epoch: 26 - Validation Loss: 0.481066
+2025-10-19 12:19:10,821 - INFO - Epoch: 27 - Training Loss: 0.517297
+2025-10-19 12:19:11,544 - INFO - Best Model So Far in Epoch: 27
+2025-10-19 12:19:11,544 - INFO - Epoch: 27 - Validation Loss: 0.446725
+2025-10-19 12:19:17,054 - INFO - Epoch: 28 - Training Loss: 0.491002
+2025-10-19 12:19:17,801 - INFO - Epoch: 28 - Validation Loss: 0.456154
+2025-10-19 12:19:23,301 - INFO - Epoch: 29 - Training Loss: 0.498673
+2025-10-19 12:19:24,037 - INFO - Epoch: 29 - Validation Loss: 0.504886
+2025-10-19 12:19:29,472 - INFO - Epoch: 30 - Training Loss: 0.489539
+2025-10-19 12:19:30,221 - INFO - Best Model So Far in Epoch: 30
+2025-10-19 12:19:30,221 - INFO - Epoch: 30 - Validation Loss: 0.421255
+2025-10-19 12:19:35,660 - INFO - Epoch: 31 - Training Loss: 0.482166
+2025-10-19 12:19:36,398 - INFO - Epoch: 31 - Validation Loss: 0.442118
+2025-10-19 12:19:41,904 - INFO - Epoch: 32 - Training Loss: 0.474507
+2025-10-19 12:19:42,641 - INFO - Epoch: 32 - Validation Loss: 0.435839
+2025-10-19 12:19:48,105 - INFO - Epoch: 33 - Training Loss: 0.454897
+2025-10-19 12:19:48,882 - INFO - Best Model So Far in Epoch: 33
+2025-10-19 12:19:48,882 - INFO - Epoch: 33 - Validation Loss: 0.420418
+2025-10-19 12:19:54,374 - INFO - Epoch: 34 - Training Loss: 0.425801
+2025-10-19 12:19:55,094 - INFO - Best Model So Far in Epoch: 34
+2025-10-19 12:19:55,094 - INFO - Epoch: 34 - Validation Loss: 0.417411
+2025-10-19 12:20:00,596 - INFO - Epoch: 35 - Training Loss: 0.467271
+2025-10-19 12:20:01,317 - INFO - Best Model So Far in Epoch: 35
+2025-10-19 12:20:01,317 - INFO - Epoch: 35 - Validation Loss: 0.395845
+2025-10-19 12:20:06,750 - INFO - Epoch: 36 - Training Loss: 0.407289
+2025-10-19 12:20:07,489 - INFO - Epoch: 36 - Validation Loss: 0.397912
+2025-10-19 12:20:12,977 - INFO - Epoch: 37 - Training Loss: 0.411597
+2025-10-19 12:20:13,730 - INFO - Epoch: 37 - Validation Loss: 0.430683
+2025-10-19 12:20:19,162 - INFO - Epoch: 38 - Training Loss: 0.442078
+2025-10-19 12:20:19,916 - INFO - Epoch: 38 - Validation Loss: 0.425961
+2025-10-19 12:20:25,345 - INFO - Epoch: 39 - Training Loss: 0.388260
+2025-10-19 12:20:26,081 - INFO - Epoch: 39 - Validation Loss: 0.444057
+2025-10-19 12:20:31,619 - INFO - Epoch: 40 - Training Loss: 0.389024
+2025-10-19 12:20:32,352 - INFO - Epoch: 40 - Validation Loss: 0.454241
+2025-10-19 12:20:37,791 - INFO - Epoch: 41 - Training Loss: 0.417131
+2025-10-19 12:20:38,532 - INFO - Epoch: 41 - Validation Loss: 0.520091
+2025-10-19 12:20:44,020 - INFO - Epoch: 42 - Training Loss: 0.396816
+2025-10-19 12:20:44,771 - INFO - Best Model So Far in Epoch: 42
+2025-10-19 12:20:44,771 - INFO - Epoch: 42 - Validation Loss: 0.339134
+2025-10-19 12:20:50,212 - INFO - Epoch: 43 - Training Loss: 0.364377
+2025-10-19 12:20:50,957 - INFO - Epoch: 43 - Validation Loss: 0.354592
+2025-10-19 12:20:56,453 - INFO - Epoch: 44 - Training Loss: 0.361751
+2025-10-19 12:20:57,202 - INFO - Best Model So Far in Epoch: 44
+2025-10-19 12:20:57,202 - INFO - Epoch: 44 - Validation Loss: 0.333615
+2025-10-19 12:21:02,719 - INFO - Epoch: 45 - Training Loss: 0.354180
+2025-10-19 12:21:03,426 - INFO - Epoch: 45 - Validation Loss: 0.340443
+2025-10-19 12:21:08,854 - INFO - Epoch: 46 - Training Loss: 0.349568
+2025-10-19 12:21:09,575 - INFO - Best Model So Far in Epoch: 46
+2025-10-19 12:21:09,575 - INFO - Epoch: 46 - Validation Loss: 0.322129
+2025-10-19 12:21:15,037 - INFO - Epoch: 47 - Training Loss: 0.350021
+2025-10-19 12:21:15,801 - INFO - Best Model So Far in Epoch: 47
+2025-10-19 12:21:15,801 - INFO - Epoch: 47 - Validation Loss: 0.312786
+2025-10-19 12:21:21,308 - INFO - Epoch: 48 - Training Loss: 0.340668
+2025-10-19 12:21:22,033 - INFO - Epoch: 48 - Validation Loss: 0.318546
+2025-10-19 12:21:27,520 - INFO - Epoch: 49 - Training Loss: 0.353116
+2025-10-19 12:21:28,284 - INFO - Epoch: 49 - Validation Loss: 0.429708
+2025-10-19 12:21:33,729 - INFO - Epoch: 50 - Training Loss: 0.352389
+2025-10-19 12:21:34,450 - INFO - Best Model So Far in Epoch: 50
+2025-10-19 12:21:34,450 - INFO - Epoch: 50 - Validation Loss: 0.299372
+2025-10-19 12:21:39,920 - INFO - Epoch: 51 - Training Loss: 0.330055
+2025-10-19 12:21:40,671 - INFO - Epoch: 51 - Validation Loss: 0.322191
+2025-10-19 12:21:46,105 - INFO - Epoch: 52 - Training Loss: 0.330601
+2025-10-19 12:21:46,868 - INFO - Epoch: 52 - Validation Loss: 0.353318
+2025-10-19 12:21:52,319 - INFO - Epoch: 53 - Training Loss: 0.341530
+2025-10-19 12:21:53,071 - INFO - Epoch: 53 - Validation Loss: 0.318511
+2025-10-19 12:21:58,500 - INFO - Epoch: 54 - Training Loss: 0.344389
+2025-10-19 12:21:59,218 - INFO - Epoch: 54 - Validation Loss: 0.324342
+2025-10-19 12:22:04,692 - INFO - Epoch: 55 - Training Loss: 0.360714
+2025-10-19 12:22:05,427 - INFO - Epoch: 55 - Validation Loss: 0.304776
+2025-10-19 12:22:10,909 - INFO - Epoch: 56 - Training Loss: 0.317266
+2025-10-19 12:22:11,635 - INFO - Epoch: 56 - Validation Loss: 0.325701
+2025-10-19 12:22:17,119 - INFO - Epoch: 57 - Training Loss: 0.306864
+2025-10-19 12:22:17,847 - INFO - Epoch: 57 - Validation Loss: 0.340944
+2025-10-19 12:22:23,281 - INFO - Epoch: 58 - Training Loss: 0.332158
+2025-10-19 12:22:24,039 - INFO - Epoch: 58 - Validation Loss: 0.305495
+2025-10-19 12:22:29,490 - INFO - Epoch: 59 - Training Loss: 0.339410
+2025-10-19 12:22:30,221 - INFO - Epoch: 59 - Validation Loss: 0.361833
+2025-10-19 12:22:35,702 - INFO - Epoch: 60 - Training Loss: 0.320282
+2025-10-19 12:22:36,435 - INFO - Epoch: 60 - Validation Loss: 0.355889
+2025-10-19 12:22:41,900 - INFO - Epoch: 61 - Training Loss: 0.285175
+2025-10-19 12:22:42,619 - INFO - Epoch: 61 - Validation Loss: 0.320910
+2025-10-19 12:22:48,099 - INFO - Epoch: 62 - Training Loss: 0.348350
+2025-10-19 12:22:48,804 - INFO - Epoch: 62 - Validation Loss: 0.313528
+2025-10-19 12:22:54,267 - INFO - Epoch: 63 - Training Loss: 0.300889
+2025-10-19 12:22:55,015 - INFO - Epoch: 63 - Validation Loss: 0.446076
+2025-10-19 12:23:00,459 - INFO - Epoch: 64 - Training Loss: 0.379763
+2025-10-19 12:23:01,203 - INFO - Epoch: 64 - Validation Loss: 0.336134
+2025-10-19 12:23:06,906 - INFO - Epoch: 65 - Training Loss: 0.316864
+2025-10-19 12:23:07,709 - INFO - Epoch: 65 - Validation Loss: 0.346364
+2025-10-19 12:23:13,278 - INFO - Epoch: 66 - Training Loss: 0.315798
+2025-10-19 12:23:14,045 - INFO - Best Model So Far in Epoch: 66
+2025-10-19 12:23:14,045 - INFO - Epoch: 66 - Validation Loss: 0.296344
+2025-10-19 12:23:19,921 - INFO - Epoch: 67 - Training Loss: 0.299382
+2025-10-19 12:23:20,702 - INFO - Epoch: 67 - Validation Loss: 0.313003
+2025-10-19 12:23:26,760 - INFO - Epoch: 68 - Training Loss: 0.279696
+2025-10-19 12:23:27,698 - INFO - Epoch: 68 - Validation Loss: 0.400839
+2025-10-19 12:23:33,990 - INFO - Epoch: 69 - Training Loss: 0.309993
+2025-10-19 12:23:34,820 - INFO - Epoch: 69 - Validation Loss: 0.325721
+2025-10-19 12:23:41,191 - INFO - Epoch: 70 - Training Loss: 0.287827
+2025-10-19 12:23:42,064 - INFO - Epoch: 70 - Validation Loss: 0.452957
+2025-10-19 12:23:48,421 - INFO - Epoch: 71 - Training Loss: 0.290292
+2025-10-19 12:23:49,285 - INFO - Epoch: 71 - Validation Loss: 0.299410
+2025-10-19 12:23:55,608 - INFO - Epoch: 72 - Training Loss: 0.282079
+2025-10-19 12:23:56,449 - INFO - Epoch: 72 - Validation Loss: 0.382240
+2025-10-19 12:24:02,757 - INFO - Epoch: 73 - Training Loss: 0.288260
+2025-10-19 12:24:03,617 - INFO - Best Model So Far in Epoch: 73
+2025-10-19 12:24:03,618 - INFO - Epoch: 73 - Validation Loss: 0.272557
+2025-10-19 12:24:09,942 - INFO - Epoch: 74 - Training Loss: 0.279986
+2025-10-19 12:24:10,793 - INFO - Epoch: 74 - Validation Loss: 0.382777
+2025-10-19 12:24:17,139 - INFO - Epoch: 75 - Training Loss: 0.276494
+2025-10-19 12:24:17,989 - INFO - Epoch: 75 - Validation Loss: 0.280903
+2025-10-19 12:24:24,295 - INFO - Epoch: 76 - Training Loss: 0.273642
+2025-10-19 12:24:25,160 - INFO - Epoch: 76 - Validation Loss: 0.415725
+2025-10-19 12:24:31,448 - INFO - Epoch: 77 - Training Loss: 0.272497
+2025-10-19 12:24:32,288 - INFO - Epoch: 77 - Validation Loss: 0.289211
+2025-10-19 12:24:38,343 - INFO - Epoch: 78 - Training Loss: 0.246684
+2025-10-19 12:24:39,110 - INFO - Epoch: 78 - Validation Loss: 0.375938
+2025-10-19 12:24:44,781 - INFO - Epoch: 79 - Training Loss: 0.262173
+2025-10-19 12:24:45,585 - INFO - Epoch: 79 - Validation Loss: 0.277235
+2025-10-19 12:24:51,528 - INFO - Epoch: 80 - Training Loss: 0.269621
+2025-10-19 12:24:52,298 - INFO - Epoch: 80 - Validation Loss: 0.277537
+2025-10-19 12:24:57,840 - INFO - Epoch: 81 - Training Loss: 0.261819
+2025-10-19 12:24:58,610 - INFO - Epoch: 81 - Validation Loss: 0.304981
+2025-10-19 12:25:04,312 - INFO - Epoch: 82 - Training Loss: 0.257590
+2025-10-19 12:25:05,151 - INFO - Epoch: 82 - Validation Loss: 0.310970
+2025-10-19 12:25:10,908 - INFO - Epoch: 83 - Training Loss: 0.245649
+2025-10-19 12:25:11,627 - INFO - Epoch: 83 - Validation Loss: 0.290873
+2025-10-19 12:25:17,059 - INFO - Epoch: 84 - Training Loss: 0.257753
+2025-10-19 12:25:17,798 - INFO - Epoch: 84 - Validation Loss: 0.274848
+2025-10-19 12:25:23,233 - INFO - Epoch: 85 - Training Loss: 0.251990
+2025-10-19 12:25:24,001 - INFO - Best Model So Far in Epoch: 85
+2025-10-19 12:25:24,001 - INFO - Epoch: 85 - Validation Loss: 0.267622
+2025-10-19 12:25:29,487 - INFO - Epoch: 86 - Training Loss: 0.229838
+2025-10-19 12:25:30,238 - INFO - Epoch: 86 - Validation Loss: 0.273222
+2025-10-19 12:25:35,667 - INFO - Epoch: 87 - Training Loss: 0.226265
+2025-10-19 12:25:36,375 - INFO - Epoch: 87 - Validation Loss: 0.273853
+2025-10-19 12:25:41,844 - INFO - Epoch: 88 - Training Loss: 0.254985
+2025-10-19 12:25:42,620 - INFO - Epoch: 88 - Validation Loss: 0.329220
+2025-10-19 12:25:48,066 - INFO - Epoch: 89 - Training Loss: 0.263482
+2025-10-19 12:25:48,810 - INFO - Epoch: 89 - Validation Loss: 0.288863
+2025-10-19 12:25:54,279 - INFO - Epoch: 90 - Training Loss: 0.261155
+2025-10-19 12:25:55,000 - INFO - Epoch: 90 - Validation Loss: 0.434156
+2025-10-19 12:26:00,491 - INFO - Epoch: 91 - Training Loss: 0.268486
+2025-10-19 12:26:01,210 - INFO - Epoch: 91 - Validation Loss: 0.283185
+2025-10-19 12:26:06,672 - INFO - Epoch: 92 - Training Loss: 0.220182
+2025-10-19 12:26:07,400 - INFO - Epoch: 92 - Validation Loss: 0.277658
+2025-10-19 12:26:12,889 - INFO - Epoch: 93 - Training Loss: 0.229531
+2025-10-19 12:26:13,647 - INFO - Epoch: 93 - Validation Loss: 0.533927
+2025-10-19 12:26:19,087 - INFO - Epoch: 94 - Training Loss: 0.259544
+2025-10-19 12:26:19,796 - INFO - Epoch: 94 - Validation Loss: 0.274775
+2025-10-19 12:26:25,257 - INFO - Epoch: 95 - Training Loss: 0.248153
+2025-10-19 12:26:26,005 - INFO - Best Model So Far in Epoch: 95
+2025-10-19 12:26:26,005 - INFO - Epoch: 95 - Validation Loss: 0.267617
+2025-10-19 12:26:31,445 - INFO - Epoch: 96 - Training Loss: 0.220191
+2025-10-19 12:26:32,155 - INFO - Best Model So Far in Epoch: 96
+2025-10-19 12:26:32,155 - INFO - Epoch: 96 - Validation Loss: 0.267427
+2025-10-19 12:26:37,630 - INFO - Epoch: 97 - Training Loss: 0.220095
+2025-10-19 12:26:38,379 - INFO - Epoch: 97 - Validation Loss: 0.431995
+2025-10-19 12:26:43,808 - INFO - Epoch: 98 - Training Loss: 0.240678
+2025-10-19 12:26:44,554 - INFO - Epoch: 98 - Validation Loss: 0.280204
+2025-10-19 12:26:50,020 - INFO - Epoch: 99 - Training Loss: 0.233116
+2025-10-19 12:26:50,760 - INFO - Epoch: 99 - Validation Loss: 0.294767
+2025-10-19 12:26:56,260 - INFO - Epoch: 100 - Training Loss: 0.203636
+2025-10-19 12:26:57,007 - INFO - Epoch: 100 - Validation Loss: 0.273728
+2025-10-19 12:27:02,476 - INFO - Epoch: 101 - Training Loss: 0.225881
+2025-10-19 12:27:03,193 - INFO - Epoch: 101 - Validation Loss: 0.373174
+2025-10-19 12:27:08,643 - INFO - Epoch: 102 - Training Loss: 0.219661
+2025-10-19 12:27:09,354 - INFO - Best Model So Far in Epoch: 102
+2025-10-19 12:27:09,354 - INFO - Epoch: 102 - Validation Loss: 0.251766
+2025-10-19 12:27:14,789 - INFO - Epoch: 103 - Training Loss: 0.216986
+2025-10-19 12:27:15,519 - INFO - Epoch: 103 - Validation Loss: 0.264762
+2025-10-19 12:27:20,994 - INFO - Epoch: 104 - Training Loss: 0.220168
+2025-10-19 12:27:21,742 - INFO - Epoch: 104 - Validation Loss: 0.387570
+2025-10-19 12:27:27,177 - INFO - Epoch: 105 - Training Loss: 0.210660
+2025-10-19 12:27:27,891 - INFO - Epoch: 105 - Validation Loss: 0.352351
+2025-10-19 12:27:33,321 - INFO - Epoch: 106 - Training Loss: 0.212252
+2025-10-19 12:27:34,077 - INFO - Epoch: 106 - Validation Loss: 0.284503
+2025-10-19 12:27:39,630 - INFO - Epoch: 107 - Training Loss: 0.212433
+2025-10-19 12:27:40,366 - INFO - Epoch: 107 - Validation Loss: 0.322129
+2025-10-19 12:27:45,810 - INFO - Epoch: 108 - Training Loss: 0.238759
+2025-10-19 12:27:46,567 - INFO - Epoch: 108 - Validation Loss: 0.322620
+2025-10-19 12:27:52,040 - INFO - Epoch: 109 - Training Loss: 0.216655
+2025-10-19 12:27:52,788 - INFO - Best Model So Far in Epoch: 109
+2025-10-19 12:27:52,788 - INFO - Epoch: 109 - Validation Loss: 0.248786
+2025-10-19 12:27:58,238 - INFO - Epoch: 110 - Training Loss: 0.197436
+2025-10-19 12:27:58,979 - INFO - Epoch: 110 - Validation Loss: 0.323256
+2025-10-19 12:28:04,406 - INFO - Epoch: 111 - Training Loss: 0.211490
+2025-10-19 12:28:05,148 - INFO - Best Model So Far in Epoch: 111
+2025-10-19 12:28:05,148 - INFO - Epoch: 111 - Validation Loss: 0.244791
+2025-10-19 12:28:10,594 - INFO - Epoch: 112 - Training Loss: 0.209708
+2025-10-19 12:28:11,339 - INFO - Epoch: 112 - Validation Loss: 0.259326
+2025-10-19 12:28:16,774 - INFO - Epoch: 113 - Training Loss: 0.211229
+2025-10-19 12:28:17,515 - INFO - Epoch: 113 - Validation Loss: 0.266794
+2025-10-19 12:28:23,020 - INFO - Epoch: 114 - Training Loss: 0.206271
+2025-10-19 12:28:23,777 - INFO - Epoch: 114 - Validation Loss: 0.250459
+2025-10-19 12:28:29,220 - INFO - Epoch: 115 - Training Loss: 0.225296
+2025-10-19 12:28:29,960 - INFO - Epoch: 115 - Validation Loss: 0.290503
+2025-10-19 12:28:35,450 - INFO - Epoch: 116 - Training Loss: 0.223046
+2025-10-19 12:28:36,282 - INFO - Epoch: 116 - Validation Loss: 0.297265
+2025-10-19 12:28:41,706 - INFO - Epoch: 117 - Training Loss: 0.214105
+2025-10-19 12:28:42,446 - INFO - Epoch: 117 - Validation Loss: 0.300238
+2025-10-19 12:28:47,900 - INFO - Epoch: 118 - Training Loss: 0.195394
+2025-10-19 12:28:48,651 - INFO - Epoch: 118 - Validation Loss: 0.326185
+2025-10-19 12:28:54,126 - INFO - Epoch: 119 - Training Loss: 0.225593
+2025-10-19 12:28:54,875 - INFO - Epoch: 119 - Validation Loss: 0.256496
+2025-10-19 12:29:00,350 - INFO - Epoch: 120 - Training Loss: 0.190848
+2025-10-19 12:29:01,069 - INFO - Epoch: 120 - Validation Loss: 0.304266
+2025-10-19 12:29:06,508 - INFO - Epoch: 121 - Training Loss: 0.189764
+2025-10-19 12:29:07,250 - INFO - Epoch: 121 - Validation Loss: 0.255933
+2025-10-19 12:29:12,769 - INFO - Epoch: 122 - Training Loss: 0.200590
+2025-10-19 12:29:13,530 - INFO - Epoch: 122 - Validation Loss: 0.265968
+2025-10-19 12:29:19,025 - INFO - Epoch: 123 - Training Loss: 0.193891
+2025-10-19 12:29:19,791 - INFO - Epoch: 123 - Validation Loss: 0.252606
+2025-10-19 12:29:25,214 - INFO - Epoch: 124 - Training Loss: 0.185597
+2025-10-19 12:29:25,956 - INFO - Epoch: 124 - Validation Loss: 0.250416
+2025-10-19 12:29:31,413 - INFO - Epoch: 125 - Training Loss: 0.182011
+2025-10-19 12:29:32,152 - INFO - Best Model So Far in Epoch: 125
+2025-10-19 12:29:32,153 - INFO - Epoch: 125 - Validation Loss: 0.227794
+2025-10-19 12:29:37,591 - INFO - Epoch: 126 - Training Loss: 0.184123
+2025-10-19 12:29:38,348 - INFO - Epoch: 126 - Validation Loss: 0.247617
+2025-10-19 12:29:43,794 - INFO - Epoch: 127 - Training Loss: 0.201507
+2025-10-19 12:29:44,530 - INFO - Epoch: 127 - Validation Loss: 0.334804
+2025-10-19 12:29:50,032 - INFO - Epoch: 128 - Training Loss: 0.200377
+2025-10-19 12:29:50,737 - INFO - Epoch: 128 - Validation Loss: 0.233864
+2025-10-19 12:29:56,190 - INFO - Epoch: 129 - Training Loss: 0.185523
+2025-10-19 12:29:56,948 - INFO - Epoch: 129 - Validation Loss: 0.258282
+2025-10-19 12:30:02,447 - INFO - Epoch: 130 - Training Loss: 0.230945
+2025-10-19 12:30:03,158 - INFO - Epoch: 130 - Validation Loss: 0.321774
+2025-10-19 12:30:08,603 - INFO - Epoch: 131 - Training Loss: 0.210912
+2025-10-19 12:30:09,346 - INFO - Epoch: 131 - Validation Loss: 0.260626
+2025-10-19 12:30:14,821 - INFO - Epoch: 132 - Training Loss: 0.181631
+2025-10-19 12:30:15,577 - INFO - Epoch: 132 - Validation Loss: 0.399953
+2025-10-19 12:30:21,012 - INFO - Epoch: 133 - Training Loss: 0.211008
+2025-10-19 12:30:21,758 - INFO - Epoch: 133 - Validation Loss: 0.249178
+2025-10-19 12:30:27,244 - INFO - Epoch: 134 - Training Loss: 0.190820
+2025-10-19 12:30:27,975 - INFO - Epoch: 134 - Validation Loss: 0.245519
+2025-10-19 12:30:33,428 - INFO - Epoch: 135 - Training Loss: 0.171093
+2025-10-19 12:30:34,173 - INFO - Epoch: 135 - Validation Loss: 0.284451
+2025-10-19 12:30:39,670 - INFO - Epoch: 136 - Training Loss: 0.173107
+2025-10-19 12:30:40,392 - INFO - Epoch: 136 - Validation Loss: 0.235408
+2025-10-19 12:30:45,861 - INFO - Epoch: 137 - Training Loss: 0.171925
+2025-10-19 12:30:46,607 - INFO - Epoch: 137 - Validation Loss: 0.244918
+2025-10-19 12:30:52,039 - INFO - Epoch: 138 - Training Loss: 0.181404
+2025-10-19 12:30:52,774 - INFO - Epoch: 138 - Validation Loss: 0.248111
+2025-10-19 12:30:58,204 - INFO - Epoch: 139 - Training Loss: 0.165687
+2025-10-19 12:30:58,950 - INFO - Epoch: 139 - Validation Loss: 0.244314
+2025-10-19 12:31:04,412 - INFO - Epoch: 140 - Training Loss: 0.170105
+2025-10-19 12:31:05,153 - INFO - Epoch: 140 - Validation Loss: 0.421182
+2025-10-19 12:31:10,624 - INFO - Epoch: 141 - Training Loss: 0.192652
+2025-10-19 12:31:11,364 - INFO - Epoch: 141 - Validation Loss: 0.346987
+2025-10-19 12:31:16,831 - INFO - Epoch: 142 - Training Loss: 0.191028
+2025-10-19 12:31:17,539 - INFO - Epoch: 142 - Validation Loss: 0.253275
+2025-10-19 12:31:22,978 - INFO - Epoch: 143 - Training Loss: 0.182812
+2025-10-19 12:31:23,724 - INFO - Epoch: 143 - Validation Loss: 0.263971
+2025-10-19 12:31:29,152 - INFO - Epoch: 144 - Training Loss: 0.192751
+2025-10-19 12:31:29,889 - INFO - Epoch: 144 - Validation Loss: 0.293791
+2025-10-19 12:31:35,358 - INFO - Epoch: 145 - Training Loss: 0.197101
+2025-10-19 12:31:36,088 - INFO - Epoch: 145 - Validation Loss: 0.288477
+2025-10-19 12:31:41,539 - INFO - Epoch: 146 - Training Loss: 0.164780
+2025-10-19 12:31:42,276 - INFO - Epoch: 146 - Validation Loss: 0.292959
+2025-10-19 12:31:47,707 - INFO - Epoch: 147 - Training Loss: 0.169511
+2025-10-19 12:31:48,451 - INFO - Epoch: 147 - Validation Loss: 0.252061
+2025-10-19 12:31:53,913 - INFO - Epoch: 148 - Training Loss: 0.179556
+2025-10-19 12:31:54,629 - INFO - Epoch: 148 - Validation Loss: 0.281889
+2025-10-19 12:32:00,118 - INFO - Epoch: 149 - Training Loss: 0.159086
+2025-10-19 12:32:00,866 - INFO - Epoch: 149 - Validation Loss: 0.248025
+2025-10-19 12:32:06,364 - INFO - Epoch: 150 - Training Loss: 0.154393
+2025-10-19 12:32:07,100 - INFO - Epoch: 150 - Validation Loss: 0.240353
+2025-10-19 12:32:29,175 - INFO - Best Model Loaded from Epoch: 125
+2025-10-19 12:48:06,654 - INFO - Epoch: 1 - Training Loss: 10.320902
+2025-10-19 12:48:36,701 - INFO - Best Model So Far in Epoch: 1
+2025-10-19 12:48:36,701 - INFO - Epoch: 1 - Validation Loss: 0.628478
+2025-10-19 12:49:14,857 - INFO - Epoch: 2 - Training Loss: 0.883475
+2025-10-19 12:49:19,660 - INFO - Best Model So Far in Epoch: 2
+2025-10-19 12:49:19,660 - INFO - Epoch: 2 - Validation Loss: 0.563300
+2025-10-19 12:49:59,295 - INFO - Epoch: 3 - Training Loss: 0.787713
+2025-10-19 12:50:04,221 - INFO - Best Model So Far in Epoch: 3
+2025-10-19 12:50:04,221 - INFO - Epoch: 3 - Validation Loss: 0.547803
+2025-10-19 12:50:46,077 - INFO - Epoch: 4 - Training Loss: 0.734235
+2025-10-19 12:50:50,988 - INFO - Epoch: 4 - Validation Loss: 0.613146
+2025-10-19 12:51:32,744 - INFO - Epoch: 5 - Training Loss: 0.707477
+2025-10-19 12:51:37,633 - INFO - Epoch: 5 - Validation Loss: 0.773036
+2025-10-19 12:52:19,515 - INFO - Epoch: 6 - Training Loss: 0.672945
+2025-10-19 12:52:24,439 - INFO - Best Model So Far in Epoch: 6
+2025-10-19 12:52:24,439 - INFO - Epoch: 6 - Validation Loss: 0.462513
+2025-10-19 12:53:06,307 - INFO - Epoch: 7 - Training Loss: 0.659504
+2025-10-19 12:53:11,225 - INFO - Epoch: 7 - Validation Loss: 0.505649
+2025-10-19 12:53:53,267 - INFO - Epoch: 8 - Training Loss: 0.638347
+2025-10-19 12:53:58,126 - INFO - Best Model So Far in Epoch: 8
+2025-10-19 12:53:58,126 - INFO - Epoch: 8 - Validation Loss: 0.428062
+2025-10-19 12:54:40,020 - INFO - Epoch: 9 - Training Loss: 0.640068
+2025-10-19 12:54:45,026 - INFO - Epoch: 9 - Validation Loss: 0.476319
+2025-10-19 12:55:27,102 - INFO - Epoch: 10 - Training Loss: 0.612080
+2025-10-19 12:55:32,156 - INFO - Epoch: 10 - Validation Loss: 0.430258
+2025-10-19 12:56:14,154 - INFO - Epoch: 11 - Training Loss: 0.588932
+2025-10-19 12:56:19,092 - INFO - Best Model So Far in Epoch: 11
+2025-10-19 12:56:19,092 - INFO - Epoch: 11 - Validation Loss: 0.402690
+2025-10-19 12:57:01,191 - INFO - Epoch: 12 - Training Loss: 0.591703
+2025-10-19 12:57:06,197 - INFO - Epoch: 12 - Validation Loss: 0.403977
+2025-10-19 12:57:48,004 - INFO - Epoch: 13 - Training Loss: 0.583954
+2025-10-19 12:57:52,955 - INFO - Epoch: 13 - Validation Loss: 0.458600
+2025-10-19 12:58:34,960 - INFO - Epoch: 14 - Training Loss: 0.625850
+2025-10-19 12:58:39,938 - INFO - Epoch: 14 - Validation Loss: 0.532633
+2025-10-19 12:59:22,155 - INFO - Epoch: 15 - Training Loss: 0.583706
+2025-10-19 12:59:27,131 - INFO - Epoch: 15 - Validation Loss: 0.431043
+2025-10-19 13:00:09,252 - INFO - Epoch: 16 - Training Loss: 0.629479
+2025-10-19 13:00:14,132 - INFO - Best Model So Far in Epoch: 16
+2025-10-19 13:00:14,132 - INFO - Epoch: 16 - Validation Loss: 0.385211
+2025-10-19 13:00:56,072 - INFO - Epoch: 17 - Training Loss: 0.591547
+2025-10-19 13:01:01,044 - INFO - Epoch: 17 - Validation Loss: 0.560566
+2025-10-19 13:01:42,949 - INFO - Epoch: 18 - Training Loss: 0.601354
+2025-10-19 13:01:47,879 - INFO - Best Model So Far in Epoch: 18
+2025-10-19 13:01:47,879 - INFO - Epoch: 18 - Validation Loss: 0.370668
+2025-10-19 13:02:29,917 - INFO - Epoch: 19 - Training Loss: 0.663815
+2025-10-19 13:02:34,848 - INFO - Epoch: 19 - Validation Loss: 0.934302
+2025-10-19 13:03:14,488 - INFO - Epoch: 20 - Training Loss: 0.555907
+2025-10-19 13:03:18,898 - INFO - Best Model So Far in Epoch: 20
+2025-10-19 13:03:18,898 - INFO - Epoch: 20 - Validation Loss: 0.342958
+2025-10-19 13:04:00,370 - INFO - Epoch: 21 - Training Loss: 0.518532
+2025-10-19 13:04:05,337 - INFO - Epoch: 21 - Validation Loss: 0.423295
+2025-10-19 13:04:47,127 - INFO - Epoch: 22 - Training Loss: 0.603725
+2025-10-19 13:04:52,069 - INFO - Best Model So Far in Epoch: 22
+2025-10-19 13:04:52,069 - INFO - Epoch: 22 - Validation Loss: 0.340517
+2025-10-19 13:05:33,904 - INFO - Epoch: 23 - Training Loss: 0.504484
+2025-10-19 13:05:38,726 - INFO - Epoch: 23 - Validation Loss: 0.364070
+2025-10-19 13:06:20,615 - INFO - Epoch: 24 - Training Loss: 0.545667
+2025-10-19 13:06:25,546 - INFO - Epoch: 24 - Validation Loss: 0.504239
+2025-10-19 13:07:07,300 - INFO - Epoch: 25 - Training Loss: 0.554375
+2025-10-19 13:07:11,922 - INFO - Epoch: 25 - Validation Loss: 1.480760
+2025-10-19 13:07:53,955 - INFO - Epoch: 26 - Training Loss: 0.567078
+2025-10-19 13:07:58,936 - INFO - Epoch: 26 - Validation Loss: 0.772479
+2025-10-19 13:08:37,956 - INFO - Epoch: 27 - Training Loss: 0.484314
+2025-10-19 13:08:42,351 - INFO - Epoch: 27 - Validation Loss: 0.517217
+2025-10-19 13:09:19,036 - INFO - Epoch: 28 - Training Loss: 0.647975
+2025-10-19 13:09:23,536 - INFO - Epoch: 28 - Validation Loss: 0.528350
+2025-10-19 13:10:02,741 - INFO - Epoch: 29 - Training Loss: 0.462382
+2025-10-19 13:10:07,551 - INFO - Epoch: 29 - Validation Loss: 0.363977
+2025-10-19 13:10:47,614 - INFO - Epoch: 30 - Training Loss: 0.464887
+2025-10-19 13:10:52,148 - INFO - Epoch: 30 - Validation Loss: 0.360381
+2025-10-19 13:11:29,247 - INFO - Epoch: 31 - Training Loss: 0.441427
+2025-10-19 13:11:33,610 - INFO - Epoch: 31 - Validation Loss: 0.380168
+2025-10-19 13:12:11,017 - INFO - Epoch: 32 - Training Loss: 0.449842
+2025-10-19 13:12:15,420 - INFO - Epoch: 32 - Validation Loss: 0.452179
+2025-10-19 13:12:51,825 - INFO - Epoch: 33 - Training Loss: 0.530498
+2025-10-19 13:12:56,171 - INFO - Epoch: 33 - Validation Loss: 0.641211
+2025-10-19 13:13:32,533 - INFO - Epoch: 34 - Training Loss: 0.445107
+2025-10-19 13:13:36,981 - INFO - Epoch: 34 - Validation Loss: 0.556457
+2025-10-19 13:14:13,675 - INFO - Epoch: 35 - Training Loss: 0.456288
+2025-10-19 13:14:18,001 - INFO - Epoch: 35 - Validation Loss: 0.565847
+2025-10-19 13:14:58,822 - INFO - Epoch: 36 - Training Loss: 0.623522
+2025-10-19 13:15:03,735 - INFO - Epoch: 36 - Validation Loss: 1.204367
+2025-10-19 13:15:45,749 - INFO - Epoch: 37 - Training Loss: 49.378342
+2025-10-19 13:15:50,684 - INFO - Epoch: 37 - Validation Loss: 2.432354
+2025-10-19 13:16:32,624 - INFO - Epoch: 38 - Training Loss: 1.961862
+2025-10-19 13:16:37,487 - INFO - Epoch: 38 - Validation Loss: 3.725180
+2025-10-19 13:17:19,404 - INFO - Epoch: 39 - Training Loss: 1.629629
+2025-10-19 13:17:24,399 - INFO - Epoch: 39 - Validation Loss: 4.354843
+2025-10-19 13:18:06,291 - INFO - Epoch: 40 - Training Loss: 1.524840
+2025-10-19 13:18:11,185 - INFO - Epoch: 40 - Validation Loss: 5.440702
+2025-10-19 13:18:53,017 - INFO - Epoch: 41 - Training Loss: 1.439971
+2025-10-19 13:18:57,972 - INFO - Epoch: 41 - Validation Loss: 4.013942
+2025-10-19 13:19:40,128 - INFO - Epoch: 42 - Training Loss: 1.415396
+2025-10-19 13:19:45,133 - INFO - Epoch: 42 - Validation Loss: 3.917884
+2025-10-19 13:20:27,114 - INFO - Epoch: 43 - Training Loss: 1.413558
+2025-10-19 13:20:32,103 - INFO - Epoch: 43 - Validation Loss: 4.482467
+2025-10-19 13:21:14,038 - INFO - Epoch: 44 - Training Loss: 1.350187
+2025-10-19 13:21:18,956 - INFO - Epoch: 44 - Validation Loss: 5.837444
+2025-10-19 13:22:00,988 - INFO - Epoch: 45 - Training Loss: 1.334352
+2025-10-19 13:22:05,871 - INFO - Epoch: 45 - Validation Loss: 5.211870
+2025-10-19 13:22:45,946 - INFO - Epoch: 46 - Training Loss: 1.319516
+2025-10-19 13:22:50,601 - INFO - Epoch: 46 - Validation Loss: 4.496195
+2025-10-19 13:23:29,918 - INFO - Epoch: 47 - Training Loss: 1.309866
+2025-10-19 13:23:34,484 - INFO - Epoch: 47 - Validation Loss: 4.143519
+2025-10-19 13:24:13,466 - INFO - Epoch: 48 - Training Loss: 1.314685
+2025-10-19 13:24:18,146 - INFO - Epoch: 48 - Validation Loss: 4.110696
+2025-10-19 13:24:57,220 - INFO - Epoch: 49 - Training Loss: 1.274499
+2025-10-19 13:25:01,833 - INFO - Epoch: 49 - Validation Loss: 4.713087
+2025-10-19 13:25:40,857 - INFO - Epoch: 50 - Training Loss: 1.263843
+2025-10-19 13:25:45,554 - INFO - Epoch: 50 - Validation Loss: 5.545214
+2025-10-19 13:26:22,464 - INFO - Epoch: 51 - Training Loss: 1.261336
+2025-10-19 13:26:26,860 - INFO - Epoch: 51 - Validation Loss: 4.004353
+2025-10-19 13:27:06,465 - INFO - Epoch: 52 - Training Loss: 1.257852
+2025-10-19 13:27:11,347 - INFO - Epoch: 52 - Validation Loss: 4.910710
+2025-10-19 13:27:53,449 - INFO - Epoch: 53 - Training Loss: 1.259227
+2025-10-19 13:27:58,425 - INFO - Epoch: 53 - Validation Loss: 4.373269
+2025-10-19 13:28:38,189 - INFO - Epoch: 54 - Training Loss: 1.231858
+2025-10-19 13:28:42,454 - INFO - Epoch: 54 - Validation Loss: 4.021294
+2025-10-19 13:29:19,151 - INFO - Epoch: 55 - Training Loss: 1.230505
+2025-10-19 13:29:23,453 - INFO - Epoch: 55 - Validation Loss: 4.547473
+2025-10-19 13:30:00,366 - INFO - Epoch: 56 - Training Loss: 1.227099
+2025-10-19 13:30:04,671 - INFO - Epoch: 56 - Validation Loss: 4.006647
+2025-10-19 13:30:43,926 - INFO - Epoch: 57 - Training Loss: 1.207304
+2025-10-19 13:30:48,958 - INFO - Epoch: 57 - Validation Loss: 4.911183
+2025-10-19 13:31:31,056 - INFO - Epoch: 58 - Training Loss: 1.228257
+2025-10-19 13:31:35,794 - INFO - Epoch: 58 - Validation Loss: 4.385383
+2025-10-19 13:32:16,356 - INFO - Epoch: 59 - Training Loss: 1.191733
+2025-10-19 13:32:21,386 - INFO - Epoch: 59 - Validation Loss: 4.677568
+2025-10-19 13:33:03,397 - INFO - Epoch: 60 - Training Loss: 1.172777
+2025-10-19 13:33:08,333 - INFO - Epoch: 60 - Validation Loss: 5.506267
+2025-10-19 13:33:50,497 - INFO - Epoch: 61 - Training Loss: 1.173433
+2025-10-19 13:33:55,492 - INFO - Epoch: 61 - Validation Loss: 5.554157
+2025-10-19 13:34:37,493 - INFO - Epoch: 62 - Training Loss: 1.206210
+2025-10-19 13:34:42,398 - INFO - Epoch: 62 - Validation Loss: 2.500878
+2025-10-19 13:35:24,120 - INFO - Epoch: 63 - Training Loss: 1.476525
+2025-10-19 13:35:28,886 - INFO - Epoch: 63 - Validation Loss: 4.958532
+2025-10-19 13:36:10,883 - INFO - Epoch: 64 - Training Loss: 1.251530
+2025-10-19 13:36:15,871 - INFO - Epoch: 64 - Validation Loss: 5.041816
+2025-10-19 13:36:58,050 - INFO - Epoch: 65 - Training Loss: 1.221646
+2025-10-19 13:37:03,024 - INFO - Epoch: 65 - Validation Loss: 4.670709
+2025-10-19 13:37:44,426 - INFO - Epoch: 66 - Training Loss: 1.233656
+2025-10-19 13:37:49,068 - INFO - Epoch: 66 - Validation Loss: 5.574520
+2025-10-19 13:38:31,168 - INFO - Epoch: 67 - Training Loss: 1.219409
+2025-10-19 13:38:36,035 - INFO - Epoch: 67 - Validation Loss: 3.643303
+2025-10-19 13:39:17,457 - INFO - Epoch: 68 - Training Loss: 1.219552
+2025-10-19 13:39:22,596 - INFO - Epoch: 68 - Validation Loss: 4.532027
+2025-10-19 13:40:03,209 - INFO - Epoch: 69 - Training Loss: 1.187975
+2025-10-19 13:40:08,271 - INFO - Epoch: 69 - Validation Loss: 5.671433
+2025-10-19 13:40:49,608 - INFO - Epoch: 70 - Training Loss: 1.205627
+2025-10-19 13:40:54,746 - INFO - Epoch: 70 - Validation Loss: 5.104716
+2025-10-19 13:41:37,723 - INFO - Epoch: 71 - Training Loss: 1.203567
+2025-10-19 13:41:42,883 - INFO - Epoch: 71 - Validation Loss: 3.118403
+2025-10-19 13:42:25,697 - INFO - Epoch: 72 - Training Loss: 1.167554
+2025-10-19 13:42:30,729 - INFO - Epoch: 72 - Validation Loss: 5.138501
+2025-10-19 13:43:13,255 - INFO - Epoch: 73 - Training Loss: 1.171239
+2025-10-19 13:43:18,222 - INFO - Epoch: 73 - Validation Loss: 5.086510
+2025-10-19 13:44:00,138 - INFO - Epoch: 74 - Training Loss: 1.149867
+2025-10-19 13:44:05,149 - INFO - Epoch: 74 - Validation Loss: 4.330684
+2025-10-19 13:44:46,789 - INFO - Epoch: 75 - Training Loss: 1.161190
+2025-10-19 13:44:51,736 - INFO - Epoch: 75 - Validation Loss: 2.797238
+2025-10-19 13:45:33,743 - INFO - Epoch: 76 - Training Loss: 1.122331
+2025-10-19 13:45:38,643 - INFO - Epoch: 76 - Validation Loss: 5.256260
+2025-10-19 13:46:19,474 - INFO - Epoch: 77 - Training Loss: 1.126214
+2025-10-19 13:46:24,080 - INFO - Epoch: 77 - Validation Loss: 3.687867
+2025-10-19 13:47:01,810 - INFO - Epoch: 78 - Training Loss: 1.128515
+2025-10-19 13:47:06,420 - INFO - Epoch: 78 - Validation Loss: 3.819826
+2025-10-19 13:47:46,940 - INFO - Epoch: 79 - Training Loss: 1.124658
+2025-10-19 13:47:51,736 - INFO - Epoch: 79 - Validation Loss: 3.924060
+2025-10-19 13:48:33,227 - INFO - Epoch: 80 - Training Loss: 1.070935
+2025-10-19 13:48:38,286 - INFO - Epoch: 80 - Validation Loss: 4.110728
+2025-10-19 13:49:19,633 - INFO - Epoch: 81 - Training Loss: 1.075480
+2025-10-19 13:49:24,539 - INFO - Epoch: 81 - Validation Loss: 2.963243
+2025-10-19 13:50:06,581 - INFO - Epoch: 82 - Training Loss: 1.055667
+2025-10-19 13:50:11,479 - INFO - Epoch: 82 - Validation Loss: 3.749048
+2025-10-19 13:50:48,791 - INFO - Epoch: 83 - Training Loss: 1.059858
+2025-10-19 13:50:53,157 - INFO - Epoch: 83 - Validation Loss: 4.174582
+2025-10-19 13:51:30,574 - INFO - Epoch: 84 - Training Loss: 1.040592
+2025-10-19 13:51:35,027 - INFO - Epoch: 84 - Validation Loss: 5.110820
